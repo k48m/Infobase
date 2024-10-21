@@ -29,11 +29,11 @@ Der Formfaktor bestimmt die Größe, Form und die Position der Komponenten auf d
 [Arbeitsspeicher (RAM)](Bilder_Infobase/ram.png)
 
 Erweiterungssteckplätze (PCIe) 
-![Erweiterungssteckplätze (PCIe)](Bilder_Infobase/Erweiterungssteckplätze.png)
+[Erweiterungssteckplätze (PCIe)](Bilder_Infobase/Erweiterungssteckplätze.png)
 
-![Stromanschluss (ATX)](Bilder_Infobase/Stromanschluss.png)
+[Stromanschluss (ATX)](Bilder_Infobase/Stromanschluss.png)
 
-![BIOS/UEFI-Chip](Bilder_Infobase/BIOS_UEFI_Chip.png)
+[BIOS/UEFI-Chip](Bilder_Infobase/BIOS_UEFI_Chip.png)
 **4. Nenne die wichtigsten Bussysteme für Mainboards! Erstelle eine kurze Liste wichtigster Erweiterungsbussysteme und in etwa dem Zeitbereich ihrer Verbreitung!**
 
 ISA (Industry Standard Architecture)
