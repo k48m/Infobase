@@ -69,26 +69,23 @@ VESA Local Bus
 
 *Beschreibung:* Ein früher Standard zur Verbindung von Grafikkarten mit der CPU.
 
-<<<<<<< HEAD
+
 **5. Nenne die wichtigsten externen Anschlüsse des Mainboards und ihre Aufgabe! Gib zu jedem Anschluss Bilder an!**
 
 |Anschluss|Aufgabe|Beschreibung| Bilder |
 |---------|-------|------------|--------|
-|CPU-Sockel (Socket)|Verbindung der CPU mit dem Mainboard|Flache, rechteckige Fläche mit Pins oder Löchern|[CPU-Sockel](Bilder_Infobase/image.png)|
-|RAM-Sockel (DIMM-Slots)|Aufnahme der RAM-Module|Lange, schmale Slots, parallel angeordnet|[RAM-Sockel](Bilder_Infobase/image-1.png)|
-|PCIe-Steckplätze|Verbindung von Erweiterungskarten|Längliche Slots (x1, x4, x8, x16)|[PCIe-STeckplätze](Bilder_Infobase/image-2.png)|
-|SATA-Anschlüsse|Anschluss von SSDs und HDDs|Kleine, flache Anschlüsse, oft in einer Reihe|[SATA-Anschlüsse](Bilder_Infobase/image-3.png)|
-|M.2-Steckplätze|Anschluss von NVMe-SSDs oder WLAN-Karten|Rechteckige, flache Slots, oft senkrecht zum Mainboard|[M.2-Steckplätze](Bilder_Infobase/image-5.png)|
-|USB-Header|Anschluss von USB-Anschlüssen im Gehäuse|Mehrpolige Stecker, oft in einer Reihe|[USB-Header](Bilder_Infobase/image-4.png)|
-|24-Pin ATX-Stromanschluss|Stromversorgung des Mainboards|Großer, rechteckiger Stecker mit vielen Pins|![24-Pin ATX](Bilder_Infobase/image-6.png)|
-|4/8-Pin CPU-Stromanschluss|Zusätzliche Stromversorgung für die CPU|Kleinere Stecker, oft quadratisch oder rechteckig|![4/8-Pin](Bilder_Infobase/image-7.png)|
+|CPU-Sockel (Socket)|Verbindung der CPU mit dem Mainboard|Flache, rechteckige Fläche mit Pins oder Löchern| ![CPU-Sockel](Bilder_Infobase/image.png) |
+|RAM-Sockel (DIMM-Slots)|Aufnahme der RAM-Module|Lange, schmale Slots, parallel angeordnet| ![RAM-Sockel](Bilder_Infobase/image-1.png) |
+|PCIe-Steckplätze|Verbindung von Erweiterungskarten|Längliche Slots (x1, x4, x8, x16)| ![PCIe-STeckplätze](Bilder_Infobase/image-2.png) |
+|SATA-Anschlüsse|Anschluss von SSDs und HDDs|Kleine, flache Anschlüsse, oft in einer Reihe| ![SATA-Anschlüsse](Bilder_Infobase/image-3.png) |
+|M.2-Steckplätze|Anschluss von NVMe-SSDs oder WLAN-Karten|Rechteckige, flache Slots, oft senkrecht zum Mainboard| ![M.2-Steckplätze](Bilder_Infobase/image-5.png) |
+|USB-Header|Anschluss von USB-Anschlüssen im Gehäuse|Mehrpolige Stecker, oft in einer Reihe| ![USB-Header](Bilder_Infobase/image-4.png) |
+|24-Pin ATX-Stromanschluss|Stromversorgung des Mainboards|Großer, rechteckiger Stecker mit vielen Pins| ![24-Pin ATX](Bilder_Infobase/image-6.png) |
+|4/8-Pin CPU-Stromanschluss|Zusätzliche Stromversorgung für die CPU|Kleinere Stecker, oft quadratisch oder rechteckig| ![4/8-Pin](Bilder_Infobase/image-7.png) |
 
 **7. Was ist eine Riser-Karte?**
 Eine Riser-Karte ist eine Erweiterungskarte, die in einem PC verwendet wird, um zusätzliche Erweiterungssteckplätze zu schaffen. Sie ermöglicht es, zusätzliche Karten (wie Grafikkarten oder andere Erweiterungen) in einem anderen Winkel oder an einem anderen Ort im Gehäuse zu platzieren, was besonders in kompakten oder spezialisierten Systemen nützlich ist, in denen der Platz begrenzt ist. Riser-Karten sind oft in Servern oder speziellen Gaming-PCs zu finden.
 
-
-# Theoretische Fragen 2:
-=======
 
 **Nenne die wichtigsten externen Anschlüsse des Mainboards und ihre Aufgabe! Gib zu jedem Anschluss Bilder an!**
 
@@ -138,4 +135,3 @@ Eine Riser-Karte ist eine Erweiterungskarte, die in einem PC verwendet wird, um 
 **Was ist eine Riser-Karte?**
 
 Eine Riser-Karte ist eine Erweiterungskarte, die in einem PC verwendet wird, um zusätzliche Erweiterungssteckplätze zu schaffen. Sie ermöglicht es, zusätzliche Karten (wie Grafikkarten oder andere Erweiterungen) in einem anderen Winkel oder an einem anderen Ort im Gehäuse zu platzieren, was besonders in kompakten oder spezialisierten Systemen nützlich ist, in denen der Platz begrenzt ist. Riser-Karten sind oft in Servern oder speziellen Gaming-PCs zu finden.
->>>>>>> f5b0c85c648b9072f2064c999c97a11f742860be
