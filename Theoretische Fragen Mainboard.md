@@ -24,18 +24,15 @@ Der Formfaktor bestimmt die Größe, Form und die Position der Komponenten auf d
 
 **3. Nenne die wichtigsten Komponenten auf dem Mainboard! Gib zu jeder Komponente Bilder an!**
 
-[Prozessor (CPU)](Bilder_Infobase/image-1.png)
+Prozessor (CPU) [https://www.derstandard.at/story/2000021618192/skylake-intel-bringt-neue-prozessor-generation-fuer-laptops]
 
-[Arbeitsspeicher (RAM)](Bilder_Infobase/image.png)
+Arbeitsspeicher (RAM) [Bilder_Infobase/https://www.delst.de/de/lexikon/arbeitsspeicher-ram/]
 
-[Chipsatz](Bilder_Infobase/image-2.png)
+Erweiterungssteckplätze (PCIe) [https://www.alamy.de/pci-e-erweiterungssteckplatz-auf-einem-modernen-schwarzen-mainboard-komponenten-der-hauptplatine-des-computers-nahaufnahme-der-desktop-hardware-makro-pc-komponenten-image396996565.html]
 
-[Erweiterungssteckplätze (PCIe)](Bilder_Infobase/image-3.png)
+Stromanschluss (ATX) [https://www.conrad.at/de/p/bequiet-computer-strom-kabel-1x-atx-strom-stecker-24pol-20-4-1x-atx-strom-stecker-24pol-20-4-0-60-m-schwarz-1762814.html]
 
-[Stromanschluss (ATX)](Bilder_Infobase/image.png)
-
-[BIOS/UEFI-Chip](Bilder_Infobase/image-4.png)
-
+BIOS/UEFI-Chip [https://www.computerbild.de/artikel/cb-Tipps-PC-Hardware-UEFI-oder-BIOS-So-ermitteln-Sie-das-System-auf-Ihrem-PC-31467117.html]
 
 **4. Nenne die wichtigsten Bussysteme für Mainboards! Erstelle eine kurze Liste wichtigster Erweiterungsbussysteme und in etwa dem Zeitbereich ihrer Verbreitung!**
 
