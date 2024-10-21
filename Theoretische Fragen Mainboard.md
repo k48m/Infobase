@@ -24,16 +24,16 @@ Der Formfaktor bestimmt die Größe, Form und die Position der Komponenten auf d
 
 **3. Nenne die wichtigsten Komponenten auf dem Mainboard! Gib zu jeder Komponente Bilder an!**
 
-![Prozessor (CPU)](Bilder_Infobase/prozessor.png)
+[Prozessor (CPU)](Bilder_Infobase/prozessor.png)
 
-Arbeitsspeicher (RAM) [Bilder_Infobase/https://www.delst.de/de/lexikon/arbeitsspeicher-ram/]
+[Arbeitsspeicher (RAM)](Bilder_Infobase/ram.png)
 
-Erweiterungssteckplätze (PCIe) [https://www.alamy.de/pci-e-erweiterungssteckplatz-auf-einem-modernen-schwarzen-mainboard-komponenten-der-hauptplatine-des-computers-nahaufnahme-der-desktop-hardware-makro-pc-komponenten-image396996565.html]
+Erweiterungssteckplätze (PCIe) 
+![Erweiterungssteckplätze (PCIe)](Bilder_Infobase/Erweiterungssteckplätze.png)
 
-Stromanschluss (ATX) [https://www.conrad.at/de/p/bequiet-computer-strom-kabel-1x-atx-strom-stecker-24pol-20-4-1x-atx-strom-stecker-24pol-20-4-0-60-m-schwarz-1762814.html]
+![Stromanschluss (ATX)](Bilder_Infobase/Stromanschluss.png)
 
-BIOS/UEFI-Chip [https://www.computerbild.de/artikel/cb-Tipps-PC-Hardware-UEFI-oder-BIOS-So-ermitteln-Sie-das-System-auf-Ihrem-PC-31467117.html]
-
+![BIOS/UEFI-Chip](Bilder_Infobase/BIOS_UEFI_Chip.png)
 **4. Nenne die wichtigsten Bussysteme für Mainboards! Erstelle eine kurze Liste wichtigster Erweiterungsbussysteme und in etwa dem Zeitbereich ihrer Verbreitung!**
 
 ISA (Industry Standard Architecture)
