@@ -14,17 +14,17 @@ Der Formfaktor bestimmt die Größe, Form und die Position der Komponenten auf d
 |XL-ATX	|345 x 262	|Enthusiasten und Gaming-PCs|
 
 **Nenne die wichtigsten Komponenten auf dem Mainboard! Gib zu jeder Komponente Bilder an!**
-![Prozessor (CPU)](Bilder_infobase/image-1.png)
+![Prozessor (CPU)](Bilder_Infobase/image-1.png)
 
-![Arbeitsspeicher (RAM)](Bilder_infobase/image.png)
+![Arbeitsspeicher (RAM)](Bilder_Infobase/image.png)
 
-![Chipsatz](Bilder_infobase/image-2.png)
+![Chipsatz](Bilder_Infobase/image-2.png)
 
-![Erweiterungssteckplätze (PCIe)](Bilder_infobase/image-3.png)
+![Erweiterungssteckplätze (PCIe)](Bilder_Infobase/image-3.png)
 
-![Stromanschluss (ATX)](Bilder_infobase/image.png)
+![Stromanschluss (ATX)](Bilder_Infobase/image.png)
 
-![BIOS/UEFI-Chip](Bilder_infobase/image-4.png)
+![BIOS/UEFI-Chip](Bilder_Infobase/image-4.png)
 
 **Nenne die wichtigsten Bussysteme für Mainboards! Erstelle eine kurze Liste wichtigster Erweiterungsbussysteme und in etwa dem Zeitbereich ihrer Verbreitung!**
 
