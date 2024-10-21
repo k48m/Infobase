@@ -1,4 +1,4 @@
-#**Theoretische Fragen 1:**
+**#Theoretische Fragen 1:**
 
 **Erkläre die Aufgabe des Mainboards!**
 Das Mainboard ist das zentrale Bauteil eines Computers, das alle Komponenten miteinander verbindet. Es beherbergt den Prozessor, den Arbeitsspeicher, die Schnittstellen für Erweiterungskarten, Anschlüsse für Laufwerke und externe Peripheriegeräte. Zudem ermöglicht es die Kommunikation zwischen diesen Komponenten über verschiedene Bussysteme.
@@ -14,17 +14,18 @@ Der Formfaktor bestimmt die Größe, Form und die Position der Komponenten auf d
 |XL-ATX	|345 x 262	|Enthusiasten und Gaming-PCs|
 
 **Nenne die wichtigsten Komponenten auf dem Mainboard! Gib zu jeder Komponente Bilder an!**
-![Prozessor (CPU)](Bilder_Infobase/image-1.png)
 
-![Arbeitsspeicher (RAM)](Bilder_Infobase/image.png)
+[Prozessor (CPU)](Bilder_Infobase/image-1.png)
 
-![Chipsatz](Bilder_Infobase/image-2.png)
+[Arbeitsspeicher (RAM)](Bilder_Infobase/image.png)
 
-![Erweiterungssteckplätze (PCIe)](Bilder_Infobase/image-3.png)
+[Chipsatz](Bilder_Infobase/image-2.png)
 
-![Stromanschluss (ATX)](Bilder_Infobase/image.png)
+[Erweiterungssteckplätze (PCIe)](Bilder_Infobase/image-3.png)
 
-![BIOS/UEFI-Chip](Bilder_Infobase/image-4.png)
+[Stromanschluss (ATX)](Bilder_Infobase/image.png)
+
+[BIOS/UEFI-Chip](Bilder_Infobase/image-4.png)
 
 **Nenne die wichtigsten Bussysteme für Mainboards! Erstelle eine kurze Liste wichtigster Erweiterungsbussysteme und in etwa dem Zeitbereich ihrer Verbreitung!**
 
