@@ -1,4 +1,4 @@
-**# Theoretische Fragen 1:**
+# Theoretische Fragen 1:
 
 **Erkläre die Aufgabe des Mainboards!**
 Das Mainboard ist das zentrale Bauteil eines Computers, das alle Komponenten miteinander verbindet. Es beherbergt den Prozessor, den Arbeitsspeicher, die Schnittstellen für Erweiterungskarten, Anschlüsse für Laufwerke und externe Peripheriegeräte. Zudem ermöglicht es die Kommunikation zwischen diesen Komponenten über verschiedene Bussysteme.
