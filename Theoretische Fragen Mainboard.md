@@ -24,7 +24,7 @@ Der Formfaktor bestimmt die Größe, Form und die Position der Komponenten auf d
 
 **3. Nenne die wichtigsten Komponenten auf dem Mainboard! Gib zu jeder Komponente Bilder an!**
 
-Prozessor (CPU) [https://www.derstandard.at/story/2000021618192/skylake-intel-bringt-neue-prozessor-generation-fuer-laptops]
+![Prozessor (CPU)](Bilder_Infobase/prozessor.png)
 
 Arbeitsspeicher (RAM) [Bilder_Infobase/https://www.delst.de/de/lexikon/arbeitsspeicher-ram/]
 
