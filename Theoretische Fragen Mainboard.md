@@ -12,9 +12,6 @@ Erweiterungsmöglichkeiten: Bereitstellung von Steckplätzen für Erweiterungska
 Anschlussmöglichkeiten: Bereitstellung von Ports für externe Geräte, wie USB, HDMI, Ethernet usw.
 BIOS/UEFI-Firmware: Bereitstellung eines grundlegenden Systems, um den Computer zu starten.
 
-**Erkläre die Aufgabe des Mainboards!**
-Das Mainboard ist das zentrale Bauteil eines Computers, das alle Komponenten miteinander verbindet. Es beherbergt den Prozessor, den Arbeitsspeicher, die Schnittstellen für Erweiterungskarten, Anschlüsse für Laufwerke und externe Peripheriegeräte. Zudem ermöglicht es die Kommunikation zwischen diesen Komponenten über verschiedene Bussysteme.
-
 **2. Was ist der Formfaktor des Mainboards? Erstelle eine Tabelle mit verschiedenen Standards, ihren Maßen und typischen Einsatzgebieten!**
 Der Formfaktor bestimmt die Größe, Form und die Position der Komponenten auf dem Mainboard. Hier ist eine Tabelle mit verschiedenen Formfaktoren, ihren Maßen und typischen Einsatzgebieten:
 |Formfaktor|Maße (mm)|Typische Einsatzgebiete|
@@ -41,9 +38,6 @@ Der Formfaktor bestimmt die Größe, Form und die Position der Komponenten auf d
 
 
 **4. Nenne die wichtigsten Bussysteme für Mainboards! Erstelle eine kurze Liste wichtigster Erweiterungsbussysteme und in etwa dem Zeitbereich ihrer Verbreitung!**
-**ISA (Industry Standard Architecture)
-
-**Nenne die wichtigsten Bussysteme für Mainboards! Erstelle eine kurze Liste wichtigster Erweiterungsbussysteme und in etwa dem Zeitbereich ihrer Verbreitung!**
 
 **ISA (Industry Standard Architecture)**
 
