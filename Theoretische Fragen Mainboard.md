@@ -78,20 +78,34 @@ VESA Local Bus
 **Audioanschlüsse (3.5mm Klinke)**
 
 *Aufgabe:* Anschluss von Lautsprechern, Mikrofonen und Kopfhörern.
+
 **DisplayPort**
+
 *Aufgabe:* Hochauflösende Video- und Audioübertragung, oft für Monitore verwendet.
 
 **Nenne die wichtigsten internen Anschlüsse des Mainboards und ihre Aufgabe! Gib zu jedem Anschluss Bilder an!**
+
 **SATA** (Serial ATA)
+
 *Aufgabe:* Anschluss von Festplatten und SSDs.
+
 **M.2**
+
 *Aufgabe:* Anschluss von Hochgeschwindigkeits-SSDs und WLAN-Karten.
+
 **PCIe Slot**
+
 *Aufgabe:* Erweiterungskarten wie Grafikkarten oder Netzwerkkarten.
+
 **24-Pin ATX-Stromanschluss**
+
 *Aufgabe:* Stromversorgung des Mainboards.
+
 **Front-Panel-Anschluss**
+
 *Aufgabe:* Verbindung der Front-Panel-Tasten und LEDs (z. B. Power und Reset).
 
+
 **Was ist eine Riser-Karte?**
+
 Eine Riser-Karte ist eine Erweiterungskarte, die in einem PC verwendet wird, um zusätzliche Erweiterungssteckplätze zu schaffen. Sie ermöglicht es, zusätzliche Karten (wie Grafikkarten oder andere Erweiterungen) in einem anderen Winkel oder an einem anderen Ort im Gehäuse zu platzieren, was besonders in kompakten oder spezialisierten Systemen nützlich ist, in denen der Platz begrenzt ist. Riser-Karten sind oft in Servern oder speziellen Gaming-PCs zu finden.
