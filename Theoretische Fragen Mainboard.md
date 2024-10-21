@@ -30,7 +30,7 @@ Der Formfaktor bestimmt die Größe, Form und die Position der Komponenten auf d
 
 **Nenne die wichtigsten Bussysteme für Mainboards! Erstelle eine kurze Liste wichtigster Erweiterungsbussysteme und in etwa dem Zeitbereich ihrer Verbreitung!**
 
-**ISA (Industry Standard Architecture)
+**ISA (Industry Standard Architecture)**
 
 **Zeitbereich**: 1980er bis 1990er Jahre
 
