@@ -28,9 +28,46 @@ Der Formfaktor bestimmt die Größe, Form und die Position der Komponenten auf d
 [BIOS/UEFI-Chip](Bilder_Infobase/image-4.png)
 
 **Nenne die wichtigsten Bussysteme für Mainboards! Erstelle eine kurze Liste wichtigster Erweiterungsbussysteme und in etwa dem Zeitbereich ihrer Verbreitung!**
+**ISA (Industry Standard Architecture)
+**Zeitbereich**: 1980er bis 1990er Jahre
+*Beschreibung*: Älterer Standard für Erweiterungskarten, hauptsächlich in frühen PCs.
+PCI (Peripheral Component Interconnect)
+Zeitbereich: 1990er bis 2000er Jahre
+*Beschreibung*: Weit verbreitet für Erweiterungskarten wie Grafikkarten und Netzwerkkarten.
+AGP (Accelerated Graphics Port)
+Zeitbereich: 1997 bis 2008
+*Beschreibung*: Speziell für Grafikkarten entwickelt, um höhere Bandbreiten zu ermöglichen.
+PCI Express (PCIe)
+Zeitbereich: 2004 bis heute
+*Beschreibung*: Der derzeitige Standard für Erweiterungskarten mit deutlich höherer Geschwindigkeit als PCI und AGP.
+VESA Local Bus
+**Zeitbereich: 1992 bis 1997**
+*Beschreibung:* Ein früher Standard zur Verbindung von Grafikkarten mit der CPU.
 
 **Nenne die wichtigsten externen Anschlüsse des Mainboards und ihre Aufgabe! Gib zu jedem Anschluss Bilder an!**
 
+**USB (Universal Serial Bus)**
+*Aufgabe:* Anschluss von Peripheriegeräten wie Tastaturen, Mäusen, Druckern und externen Festplatten.
+**HDMI (High-Definition Multimedia Interface)**
+*Aufgabe:* Übertragung von Video- und Audiosignalen an Monitore oder Fernseher.
+**Ethernet (RJ-45)**
+*Aufgabe:** Netzwerkverbindung für kabelgebundenes Internet.
+**Audioanschlüsse (3.5mm Klinke)**
+*Aufgabe:* Anschluss von Lautsprechern, Mikrofonen und Kopfhörern.
+**DisplayPort**
+*Aufgabe:* Hochauflösende Video- und Audioübertragung, oft für Monitore verwendet.
+
 **Nenne die wichtigsten internen Anschlüsse des Mainboards und ihre Aufgabe! Gib zu jedem Anschluss Bilder an!**
+**SATA** (Serial ATA)
+*Aufgabe:* Anschluss von Festplatten und SSDs.
+**M.2**
+*Aufgabe:* Anschluss von Hochgeschwindigkeits-SSDs und WLAN-Karten.
+**PCIe Slot**
+*Aufgabe:* Erweiterungskarten wie Grafikkarten oder Netzwerkkarten.
+**24-Pin ATX-Stromanschluss**
+*Aufgabe:* Stromversorgung des Mainboards.
+**Front-Panel-Anschluss**
+*Aufgabe:* Verbindung der Front-Panel-Tasten und LEDs (z. B. Power und Reset).
 
 **Was ist eine Riser-Karte?**
+Eine Riser-Karte ist eine Erweiterungskarte, die in einem PC verwendet wird, um zusätzliche Erweiterungssteckplätze zu schaffen. Sie ermöglicht es, zusätzliche Karten (wie Grafikkarten oder andere Erweiterungen) in einem anderen Winkel oder an einem anderen Ort im Gehäuse zu platzieren, was besonders in kompakten oder spezialisierten Systemen nützlich ist, in denen der Platz begrenzt ist. Riser-Karten sind oft in Servern oder speziellen Gaming-PCs zu finden.
