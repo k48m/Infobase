@@ -1,6 +1,7 @@
 # Theoretische Fragen 1:
 
 **1. Erkläre die Aufgabe des Mainboards!**
+
 Das Mainboard, auch als Hauptplatine oder Motherboard bezeichnet, ist die zentrale Platine eines Computers, die alle wichtigen Komponenten miteinander verbindet.
 
 Es ist verantwortlich für die Kommunikation zwischen der CPU, dem Arbeitsspeicher, den Erweiterungskarten, dem Speicher und anderen Peripheriegeräten. Zu den Hauptaufgaben gehören:
