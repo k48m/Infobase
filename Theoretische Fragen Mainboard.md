@@ -112,7 +112,7 @@ Der CPU-Sockel ist der Anschluss auf dem Mainboard, in den der Prozessor (CPU) e
 
 *TR4 Kompatible Prozessoren:* AMD Ryzen Threadripper (z. B. Threadripper 2950X, 3970X)
 
-![TR4](Bilder_Infobase/TR4.png)
+<img src="Bilder_Infobase/TR4.png" alt="TR4" style="margin: 10px; padding: 10px;">
 
 **2. Erkläre den Begriff PGA!**
 
