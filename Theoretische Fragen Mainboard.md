@@ -81,8 +81,51 @@ VESA Local Bus
 |4/8-Pin CPU-Stromanschluss|Zusätzliche Stromversorgung für die CPU|Kleinere Stecker, oft quadratisch oder rechteckig| ![4/8-Pin](Bilder_Infobase/image-07.png) |
 
 **6. Was ist eine Riser-Karte?**
+
 Eine Riser-Karte ist eine Erweiterungskarte, die in einem PC verwendet wird, um zusätzliche Erweiterungssteckplätze zu schaffen. Sie ermöglicht es, zusätzliche Karten (wie Grafikkarten oder andere Erweiterungen) in einem anderen Winkel oder an einem anderen Ort im Gehäuse zu platzieren, was besonders in kompakten oder spezialisierten Systemen nützlich ist, in denen der Platz begrenzt ist. Riser-Karten sind oft in Servern oder speziellen Gaming-PCs zu finden.
 
 **7.Was ist eine Riser-Karte?**
 
 Eine Riser-Karte ist eine Erweiterungskarte, die in einem PC verwendet wird, um zusätzliche Erweiterungssteckplätze zu schaffen. Sie ermöglicht es, zusätzliche Karten (wie Grafikkarten oder andere Erweiterungen) in einem anderen Winkel oder an einem anderen Ort im Gehäuse zu platzieren, was besonders in kompakten oder spezialisierten Systemen nützlich ist, in denen der Platz begrenzt ist. Riser-Karten sind oft in Servern oder speziellen Gaming-PCs zu finden.
+
+
+# Theoretische Fragen 2:
+
+**1. Erkläre die Aufgabe des CPU-Sockels! Erstelle eine (kurze!) Liste verschiedener wichtiger CPU-Sockel, die zurzeit auf Mainboards zu finden sind. Gehe dabei auf AMD und Intel ein! Nenne zu jedem genannten Sockel auch kompatible Prozessoren.**
+
+### Aufgabe des CPU-Sockels
+
+Der CPU-Sockel ist der Anschluss auf dem Mainboard, in den der Prozessor (CPU) eingesetzt wird. Er sorgt dafür, dass die CPU mit dem Mainboard und anderen Komponenten kommunizieren kann. Der Sockel hat eine bestimmte Form und Pin-Anordnung, die genau zu den jeweiligen CPUs passt.
+
+#### Für Intel:
+*LGA 1200 Kompatible Prozessoren:* Intel Core der 10. und 11. Generation (z. B. i5-10400, i7-11700)
+
+
+*GA 1700 Kompatible Prozessoren:* Intel Core der 12. und 13. Generation (z. B. i5-12600K, i7-13700)
+
+*LGA 1151 Kompatible Prozessoren:* Intel Core der 6. bis 9. Generation (z. B. i5-7600K, i7-9700K)
+
+#### Für AMD:
+*AM4 Kompatible Prozessoren:* AMD Ryzen der 1. bis 5. Generation (z. B. Ryzen 5 3600, Ryzen 7 5800X)
+
+*AM5 Kompatible Prozessoren:* AMD Ryzen der 7000-Serie (z. B. Ryzen 5 7600, Ryzen 9 7950X)
+
+*TR4 Kompatible Prozessoren:* AMD Ryzen Threadripper (z. B. Threadripper 2950X, 3970X)
+
+[TR4](Bilder_Infobase/TR4.png)
+
+**2. Erkläre den Begriff PGA!**
+
+PGA steht für „Professional Golfers' Association“. Es handelt sich um eine Organisation für Golfspieler, die professionelle Golfer und Golftrainer unterstützt. PGA hat auch eigene Turniere und Meisterschaften, bei denen die besten Golfer gegeneinander antreten. 
+
+Einfach gesagt: Die PGA kümmert sich um die Förderung und Entwicklung des Golfsports auf professioneller Ebene. Sie hilft Spielern, bessere Golfer zu werden und organisiert Wettbewerbe, damit sie ihr Können zeigen können.
+
+**3. Erkläre den Begriff LGA!**
+
+
+
+**4. Was ist ein ZIF-Sockel?**
+
+
+
+**5. Erkläre die Aufgabe der RAM-Steckplätze! Welche verschiedenen Arten von RAM-Steckplätzen gibt es? Erstelle eine Tabelle mit den verschiedenen Standards, einer Grafik oder schematische Darstellung ihres Aussehens und in etwa die Jahre ihrer Verbreitung!**
