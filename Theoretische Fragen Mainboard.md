@@ -99,12 +99,16 @@ Der CPU-Sockel ist der Anschluss auf dem Mainboard, in den der Prozessor (CPU) e
 
 #### Für Intel:
 *LGA 1200 Kompatible Prozessoren:* Intel Core der 10. und 11. Generation (z. B. i5-10400, i7-11700)
+
 *GA 1700 Kompatible Prozessoren:* Intel Core der 12. und 13. Generation (z. B. i5-12600K, i7-13700)
+
 *LGA 1151 Kompatible Prozessoren:* Intel Core der 6. bis 9. Generation (z. B. i5-7600K, i7-9700K)
 
 #### Für AMD:
 *AM4 Kompatible Prozessoren:* AMD Ryzen der 1. bis 5. Generation (z. B. Ryzen 5 3600, Ryzen 7 5800X)
+
 *AM5 Kompatible Prozessoren:* AMD Ryzen der 7000-Serie (z. B. Ryzen 5 7600, Ryzen 9 7950X)
+
 *TR4 Kompatible Prozessoren:* AMD Ryzen Threadripper (z. B. Threadripper 2950X, 3970X)
 
 **2. Erkläre den Begriff PGA!**
