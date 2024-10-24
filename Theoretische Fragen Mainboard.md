@@ -93,18 +93,17 @@ Eine Riser-Karte ist eine Erweiterungskarte, die in einem PC verwendet wird, um 
 
 **1. Erkläre die Aufgabe des CPU-Sockels! Erstelle eine (kurze!) Liste verschiedener wichtiger CPU-Sockel, die zurzeit auf Mainboards zu finden sind. Gehe dabei auf AMD und Intel ein! Nenne zu jedem genannten Sockel auch kompatible Prozessoren.**
 
-### Aufgabe des CPU-Sockels
-
+**Aufgabe des CPU-Sockels**
 Der CPU-Sockel ist der Anschluss auf dem Mainboard, in den der Prozessor (CPU) eingesetzt wird. Er sorgt dafür, dass die CPU mit dem Mainboard und anderen Komponenten kommunizieren kann. Der Sockel hat eine bestimmte Form und Pin-Anordnung, die genau zu den jeweiligen CPUs passt.
 
-#### Für Intel:
+**Für Intel:**
 *LGA 1200 Kompatible Prozessoren:* Intel Core der 10. und 11. Generation (z. B. i5-10400, i7-11700)
 
 *GA 1700 Kompatible Prozessoren:* Intel Core der 12. und 13. Generation (z. B. i5-12600K, i7-13700)
 
 *LGA 1151 Kompatible Prozessoren:* Intel Core der 6. bis 9. Generation (z. B. i5-7600K, i7-9700K)
 
-#### Für AMD:
+**Für AMD:**
 *AM4 Kompatible Prozessoren:* AMD Ryzen der 1. bis 5. Generation (z. B. Ryzen 5 3600, Ryzen 7 5800X)
 
 *AM5 Kompatible Prozessoren:* AMD Ryzen der 7000-Serie (z. B. Ryzen 5 7600, Ryzen 9 7950X)
@@ -144,3 +143,26 @@ Ein ZIF-Sockel (Zero Insertion Force Socket) ist eine spezielle Art von Sockel, 
 ermöglichen ZIF-Sockel eine einfache und sichere Handhabung von Bauelementen in verschiedenen elektronischen Anwendungen.
 
 **5. Erkläre die Aufgabe der RAM-Steckplätze! Welche verschiedenen Arten von RAM-Steckplätzen gibt es? Erstelle eine Tabelle mit den verschiedenen Standards, einer Grafik oder schematische Darstellung ihres Aussehens und in etwa die Jahre ihrer Verbreitung!**
+
+**Aufgabe der RAM-Steckplätze**
+
+Die RAM-Steckplätze sind Hardwarekomponenten auf einem Motherboard, die den physischen Anschluss von RAM-Modulen (Arbeitsspeicher) ermöglichen.
+*Datenübertragung:* RAM-Steckplätze ermöglichen die Kommunikation zwischen dem RAM und der CPU.
+*Erweiterbarkeit:* Sie ermöglichen es Benutzern, den Arbeitsspeicher zu erweitern, um die Leistung des Systems zu verbessern.
+*Kompatibilität:* Verschiedene Steckplatztypen unterstützen verschiedene RAM-Standards.
+
+**Arten von RAM-Steckplätzen**
+| Standard| Aussehen| Jahre der Verbreitung |
+|---------|---------|-----------------------|
+|DIMM|![DIMM](Bilder_Infobase/DIMM.png)| 1996 - heute|
+|SO-DIMM|![SO-DIMM](Bilder_Infobase/SO_DIMM.png)| 2000 - heute|
+|SDRAM|![SDRAM](Bilder_Infobase/SDRAM.png)| 1997 - 2000|
+|DDR SDRAM|![DDR SDRAM](Bilder_Infobase/DDR_SDRAM.png)| 2000 - 2007|
+|DDR2 SDRAM|![DDR2 SDRAM](Bilder_Infobase/DDR2_SDRAM.png)| 2004 - 2009|
+|DDR3 SDRAM|![DDR3 SDRAM](Bilder_Infobase/DDR3_SDRAM.png)| 2007 - 2017|
+|DDR4 SDRAM|![DDR4 SDRAM](Bilder_Infobase/DDR4_SDRAM.png)| 2017 - heute|
+|DDR5 SDRAM|![DDR5 SDRAM](Bilder_Infobase/DDR5_SDRAM.png)| 2020 - heute|
+
+**Hinweise**
+*Aussehen:* Die Bilder in der Tabelle sind Platzhalter. Du müsstest die tatsächlichen Bilder der RAM-Steckplätze hinzufügen.
+*Jahre der Verbreitung:* Diese Jahre sind ungefähre Zeiträume, in denen die Standards populär waren oder eingeführt wurden.
