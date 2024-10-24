@@ -154,15 +154,16 @@ Die RAM-Steckplätze sind Hardwarekomponenten auf einem Motherboard, die den phy
 **Arten von RAM-Steckplätzen**
 | Standard| Aussehen| Jahre der Verbreitung |
 |---------|---------|-----------------------|
-|DIMM|![DIMM](Bilder_Infobase/DIMM.png)| 1996 - heute|
-|SO-DIMM|![SO-DIMM](Bilder_Infobase/SO_DIMM.png)| 2000 - heute|
-|SDRAM|![SDRAM](Bilder_Infobase/SDRAM.png)| 1997 - 2000|
-|DDR SDRAM|![DDR SDRAM](Bilder_Infobase/DDR_SDRAM.png)| 2000 - 2007|
-|DDR2 SDRAM|![DDR2 SDRAM](Bilder_Infobase/DDR2_SDRAM.png)| 2004 - 2009|
-|DDR3 SDRAM|![DDR3 SDRAM](Bilder_Infobase/DDR3_SDRAM.png)| 2007 - 2017|
-|DDR4 SDRAM|![DDR4 SDRAM](Bilder_Infobase/DDR4_SDRAM.png)| 2017 - heute|
-|DDR5 SDRAM|![DDR5 SDRAM](Bilder_Infobase/DDR5_SDRAM.png)| 2020 - heute|
+|DIMM|[DIMM](Bilder_Infobase/DIMM.png)| 1996 - heute|
+|SO-DIMM|[SO-DIMM](Bilder_Infobase/SO_DIMM.png)| 2000 - heute|
+|SDRAM|[SDRAM](Bilder_Infobase/SDRAM.png)| 1997 - 2000|
+|DDR SDRAM|[DDR SDRAM](Bilder_Infobase/DDR_SDRAM.png)| 2000 - 2007|
+|DDR2 SDRAM|[DDR2 SDRAM](Bilder_Infobase/DDR2_SDRAM.png)| 2004 - 2009|
+|DDR3 SDRAM|[DDR3 SDRAM](Bilder_Infobase/DDR3_SDRAM.png)| 2007 - 2017|
+|DDR4 SDRAM|[DDR4 SDRAM](Bilder_Infobase/DDR4_SDRAM.png)| 2017 - heute|
+|DDR5 SDRAM|[DDR5 SDRAM](Bilder_Infobase/DDR5_SDRAM.png)| 2020 - heute|
 
 **Hinweise**
+
 *Aussehen:* Die Bilder in der Tabelle sind Platzhalter. Du müsstest die tatsächlichen Bilder der RAM-Steckplätze hinzufügen.
 *Jahre der Verbreitung:* Diese Jahre sind ungefähre Zeiträume, in denen die Standards populär waren oder eingeführt wurden.
