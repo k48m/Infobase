@@ -99,20 +99,13 @@ Der CPU-Sockel ist der Anschluss auf dem Mainboard, in den der Prozessor (CPU) e
 
 #### Für Intel:
 *LGA 1200 Kompatible Prozessoren:* Intel Core der 10. und 11. Generation (z. B. i5-10400, i7-11700)
-
-
 *GA 1700 Kompatible Prozessoren:* Intel Core der 12. und 13. Generation (z. B. i5-12600K, i7-13700)
-
 *LGA 1151 Kompatible Prozessoren:* Intel Core der 6. bis 9. Generation (z. B. i5-7600K, i7-9700K)
 
 #### Für AMD:
 *AM4 Kompatible Prozessoren:* AMD Ryzen der 1. bis 5. Generation (z. B. Ryzen 5 3600, Ryzen 7 5800X)
-
 *AM5 Kompatible Prozessoren:* AMD Ryzen der 7000-Serie (z. B. Ryzen 5 7600, Ryzen 9 7950X)
-
 *TR4 Kompatible Prozessoren:* AMD Ryzen Threadripper (z. B. Threadripper 2950X, 3970X)
-
-![TR4](Bilder_Infobase/TR4.png)
 
 **2. Erkläre den Begriff PGA!**
 
@@ -122,10 +115,28 @@ Einfach gesagt: Die PGA kümmert sich um die Förderung und Entwicklung des Golf
 
 **3. Erkläre den Begriff LGA!**
 
+LGA steht für "Landesgemeinde Anstalt". Es handelt sich dabei um eine Organisationsform in der Schweiz, die auf kommunaler Ebene tätig ist. Hier sind einige einfache Erklärungen:
+
+*Gemeinde:* Eine LGA ist eine Art von Gemeinde, die sich um bestimmte Aufgaben kümmert, wie zum Beispiel die Bereitstellung von Dienstleistungen oder die Verwaltung von Ressourcen.
+
+*Öffentliche Aufgaben:* Die LGA wird oft gegründet, um öffentliche Dienstleistungen zu organisieren, etwa im Bereich Bildung, Gesundheitsversorgung oder Verkehr.
+
+*Zusammenarbeit:* Mehrere Gemeinden können sich zu einer LGA zusammenschließen, um ihre Ressourcen besser zu nutzen und gemeinsame Projekte zu realisieren.
+
+*Rechtliche Struktur:* Eine LGA hat eine eigene rechtliche Struktur, die es ihr ermöglicht, Verträge abzuschließen und finanziell unabhängig zu agieren.
 
 
 **4. Was ist ein ZIF-Sockel?**
 
+Ein ZIF-Sockel (Zero Insertion Force Socket) ist eine spezielle Art von Sockel, die verwendet wird, um integrierte Schaltkreise (ICs) oder andere Bauelemente ohne großen Druck oder Kraft einzusetzen oder herauszunehmen.
 
+*Einfaches Einsetzen:* Bei ZIF-Sockeln wird das Bauelement einfach in den Sockel eingelegt, und ein Hebel oder eine Klappe wird betätigt, um die Kontakte zu fixieren. Dadurch wird das Risiko von Beschädigungen am Bauelement oder Sockel verringert.
+
+*Schnelle Wartung:* ZIF-Sockel erleichtern das schnelle Austauschen von Bauelementen, was besonders in der Prototypenentwicklung oder bei Tests von Schaltungen nützlich ist.
+
+*Verwendung:* Sie werden häufig in Anwendungen wie Computerprozessoren, Speicherchips (z. B. RAM) und anderen hochintegrativen Schaltungen eingesetzt.
+
+*Technische Vorteile:* ZIF-Sockel minimieren mechanischen Stress und verlängern die Lebensdauer der Bauteile, da diese nicht ständig ein- und ausgepresst werden müssen.
+ermöglichen ZIF-Sockel eine einfache und sichere Handhabung von Bauelementen in verschiedenen elektronischen Anwendungen.
 
 **5. Erkläre die Aufgabe der RAM-Steckplätze! Welche verschiedenen Arten von RAM-Steckplätzen gibt es? Erstelle eine Tabelle mit den verschiedenen Standards, einer Grafik oder schematische Darstellung ihres Aussehens und in etwa die Jahre ihrer Verbreitung!**
