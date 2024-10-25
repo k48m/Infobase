@@ -167,3 +167,38 @@ Die RAM-Steckplätze sind Hardwarekomponenten auf einem Motherboard, die den phy
 
 *Aussehen:* Die Bilder in der Tabelle sind Platzhalter. Du müsstest die tatsächlichen Bilder der RAM-Steckplätze hinzufügen.
 *Jahre der Verbreitung:* Diese Jahre sind ungefähre Zeiträume, in denen die Standards populär waren oder eingeführt wurden.
+
+
+# Theoretische Fragen 3:
+
+**1. Aufgabe des BIOS/UEFI**
+Das BIOS (Basic Input/Output System) oder UEFI (Unified Extensible Firmware Interface) ist die Firmware, die auf dem Mainboard gespeichert ist und beim Start des Computers als erstes ausgeführt wird. Seine Hauptaufgaben sind:
+Systeminitialisierung: Es führt einen Selbsttest (POST) durch, um sicherzustellen, dass die Hardwarekomponenten ordnungsgemäß funktionieren.
+Hardwarekonfiguration: Es speichert und verwaltet die Hardwareeinstellungen des Systems, einschließlich der Boot-Reihenfolge.
+Betriebssystem-Laden: Es ermöglicht dem Computer, das Betriebssystem von einem gespeicherten Gerät (z. B. HDD, SSD, USB) zu laden.
+Bereitstellung von Hardware-Abstraktion: Es stellt eine Schnittstelle zwischen der Hardware und dem Betriebssystem zur Verfügung, die es den Anwendungen ermöglicht, Hardware-Ressourcen zu nutzen.
+
+**2. Wofür ist die BIOS/UEFI-Batterie zuständig?**
+
+Die BIOS/UEFI-Batterie hat die Aufgabe, die BIOS- oder UEFI-Einstellungen, das Datum und die Uhrzeit sowie andere wichtige Konfigurationen im Flash-Speicher auf dem Mainboard zu speichern, auch wenn der Computer ausgeschaltet ist. Diese Batterie stellt sicher, dass diese Informationen nicht verloren gehen, während der Computer nicht mit Strom versorgt wird. Wenn die Batterie schwach wird oder ausfällt, kann es zu Problemen kommen, wie z. B. falschem Datum, Uhrzeit oder zurückgesetzten BIOS-Einstellungen.
+
+**3. Was ist ein POST? Was sagt uns der POST?**
+
+POST steht für Power-On Self-Test. Es handelt sich um einen Diagnosetest, der von BIOS oder UEFI sofort nach dem Einschalten des Computers durchgeführt wird, um zu überprüfen, ob die grundlegenden Hardwarekomponenten (wie CPU, RAM, Grafikkarte und andere wichtige Komponenten) ordnungsgemäß funktionieren.
+
+*Der POST gibt verschiedene Informationen:*
+
+Fehlercodes: Bei Fehlern werden akustische Signale (Beep-Codes) oder visuelle Fehlercodes auf dem Bildschirm angezeigt, um auf das spezifische Problem hinzuweisen.
+Systemstatus: Zeigt an, ob das System bereit ist, das Betriebssystem zu laden.
+Hardwareerkennung: Bei erfolgreichem POST wird die erkannte Hardware (z. B. verfügbare RAM-Größe) angezeigt.
+
+**4. Was ist ein Jumper und welche typischen Aufgaben erfüllen Jumper?**
+
+Ein Jumper ist ein kleiner Stecker, der auf einer speziellen Leiterbahn (Jumper-Pins) auf dem Mainboard oder auf anderen Hardwarekomponenten gesetzt wird. Jumper werden verwendet, um physikalische Einstellungen zu konfigurieren oder bestimmte Funktionen zu aktivieren/deaktivieren.
+
+*Typische Aufgaben von Jumpern sind:*
+
+Hardware-Konfiguration: Bestimmung des Betriebsmodus von Komponenten (z. B. ob eine Festplatte als Master oder Slave betrieben wird).
+BIOS/UEFI-Wiederherstellung: Zurücksetzen der BIOS-/UEFI-Einstellungen auf die Werkseinstellungen.
+Aktivierung bzw. Deaktivierung von Funktionen: z. B. das Aktivieren oder Deaktivieren bestimmter Schnittstellen oder Funktionen auf dem Mainboard.
+Jumper sind in der heutigen Zeit mit der Ankunft von UEFI und modernen BIOS weniger gebräuchlich, da viele Einstellungen jetzt softwareseitig konfiguriert werden können. Ancak, sie können bei einigen älteren Hardware-Setups und bei spezifischen Fällen wie der Resetting des CMOS-Chips immer noch vorhanden sein.
