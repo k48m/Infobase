@@ -126,22 +126,46 @@ Erkläre - insofern möglich - jede Einstellungsmöglichkeit in deinem BIOS!
 
 **11.	Was ist Wake-on-LAN und wo schaltet man dieses ein oder aus?**
 
-
+Wake on LAN (WoL) ist ein Netzwerkstandard, mit dem ein Computer aus der Ferne eingeschaltet werden kann - unabhängig davon, ob er sich im Ruhezustand befindet oder sogar vollständig ausgeschaltet ist. Das funktioniert über den Empfang eines sogenannten "Magic Packets", das von einem WoL-Client gesendet wird.
 
 **12.	Was ist SecureBoot und wofür sollte man dies aktivieren bzw. deaktivieren?**
 
-
+Aktivieren Sie Secure Boot (Sicherer Start), um Malware-Angriffe, Virusinfektionen oder die Verwendung nicht vertrauenswürdiger Hardware oder bootfähiger USBs zu blockieren, die dem Computer Schaden zufügen können.
 
 **13.	Was ist CSM Support und wofür sollte man dies aktivieren bzw. deaktivieren?**
 
-
+CSM existiert (Compatibility Support Module), um die Kompatibilität mit Systemen zu gewährleisten, die UEFI vollständig unterstützen oder nicht unterstützen, sowie mit Systemen, die in Legacy installiert werden müssen. Wenn Sie also ein herkömmliches MBR-Gerät booten müssen, müssen Sie CSM aktivieren.
 
 **14.	Was ist Fast Boot und wofür sollte man dies aktivieren bzw. deaktivieren?**
 
-
+Wenn Sie diese Funktion aktivieren, werden alle Dateien Ihres Computers in den Ruhezustand versetzt und beim nächsten Start dort fortgesetzt, wo er aufgehört hat. Wenn der Schnellstart aktiviert ist, wird der Computer jedoch nicht vollständig heruntergefahren.
 
 **15.	Was ist SMT bzw. Hyperthreading und wieso sollte man es aktivieren bzw. deaktivieren?**
 
+SMT (Simultaneous Multithreading) und Hyper-Threading sind Technologien, die es einem Prozessor ermöglichen, mehrere Aufgaben gleichzeitig zu bearbeiten. 
+
+**Wie es funktioniert:**
+
+*   Ein physischer Prozessor-Kern kann zwei "virtuelle" Kerne (Threads) simulieren.
+*   Dadurch können mehr Aufgaben gleichzeitig erledigt werden.
+
+**Vorteile:**
+
+**Schneller**: Programme, die mehrere Threads nutzen, laufen oft schneller.
+
+**Bessere Nutzung**: Die CPU wird effizienter eingesetzt, da weniger Leerlauf entsteht.
+
+**Nachteile:**
+
+**Wettbewerb um Ressourcen**: In manchen sehr rechenintensiven Anwendungen kann es zu Leistungseinbußen kommen.
+
+**Komplexität**: Es kann schwieriger sein, Fehler zu finden.
+
+**Aktivieren oder Deaktivieren?**
+
+**Aktivieren**: Wenn du viele Programme nutzt, die Multithreading unterstützen (z.B. Spiele, Videoschnitt).
+
+**Deaktivieren**: Wenn du meist einfache Programme nutzt oder Probleme feststellst.
 
 **16.	Was bringt ein BIOS/UEFI-Update und was ist dabei zu beachten?**
 
