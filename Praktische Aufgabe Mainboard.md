@@ -5,7 +5,7 @@ Mach von jeder Seite der Einstellungen Photos und erkläre, was sich auf dieser 
 Erkläre - insofern möglich - jede Einstellungsmöglichkeit in deinem BIOS!
 [BIOS/UEFI](Bilder_Infobase/BIOS_UEFI.png)
 
-[BIOS/UEFI Tool](Bilder_Infobase/BiosTool.png)
+![BIOS/UEFI](Bilder_Infobase/BiosTool.png)
 
 [BIOS/UEFI Boot](Bilder_Infobase/BiosBoot.png)
 
