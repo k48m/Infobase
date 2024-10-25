@@ -151,23 +151,56 @@ SMT (Simultaneous Multithreading) und Hyper-Threading sind Technologien, die es 
 
 **Vorteile:**
 
-**Schneller**: Programme, die mehrere Threads nutzen, laufen oft schneller.
+*   **Schneller**: Programme, die mehrere Threads nutzen, laufen oft schneller.
 
-**Bessere Nutzung**: Die CPU wird effizienter eingesetzt, da weniger Leerlauf entsteht.
+*   **Bessere Nutzung**: Die CPU wird effizienter eingesetzt, da weniger Leerlauf entsteht.
 
 **Nachteile:**
 
-**Wettbewerb um Ressourcen**: In manchen sehr rechenintensiven Anwendungen kann es zu Leistungseinbußen kommen.
+*   **Wettbewerb um Ressourcen**: In manchen sehr rechenintensiven Anwendungen kann es zu Leistungseinbußen kommen.
 
-**Komplexität**: Es kann schwieriger sein, Fehler zu finden.
+*   **Komplexität**: Es kann schwieriger sein, Fehler zu finden.
 
 **Aktivieren oder Deaktivieren?**
 
-**Aktivieren**: Wenn du viele Programme nutzt, die Multithreading unterstützen (z.B. Spiele, Videoschnitt).
+*   **Aktivieren**: Wenn du viele Programme nutzt, die Multithreading unterstützen (z.B. Spiele, Videoschnitt).
 
-**Deaktivieren**: Wenn du meist einfache Programme nutzt oder Probleme feststellst.
+*   **Deaktivieren**: Wenn du meist einfache Programme nutzt oder Probleme feststellst.
 
 **16.	Was bringt ein BIOS/UEFI-Update und was ist dabei zu beachten?**
 
+UEFI steht für Unified Extensible Firmware Interface. Es sieht ähnlich aus wie alte BIOS-Menüs, ermöglicht es Ihnen jedoch, die Maus zu verwenden und einfacher zwischen den Untermenüs zu navigieren. Hinter den Kulissen ermöglicht es schnellere Startzeiten, einfachere Updates und bessere Sicherheit.
 
 **17.	Wie führt man ein BIOS-Update durch?**
+
+**1. Vorbereitungen**
+
+*   **Überprüfe die BIOS-Version**: Starte deinen Computer und gehe ins BIOS (meist durch Drücken von F2, DEL oder ESC beim Hochfahren). Notiere die aktuelle Version.
+
+*   **Modell und Hersteller**: Finde das genaue Modell deines Motherboards heraus. Diese Infos findest du meist im Handbuch oder auf der Website des Herstellers.
+
+**Treiber und Updates suchen**
+
+*   **Herstellerseite besuchen**: Gehe auf die Website des Motherboard-Herstellers und suche nach deinem Modell.
+*   **BIOS-Updates**: Lade die neueste BIOS-Version herunter, wenn es eine aktuellere gibt.
+
+**Backup erstellen**
+
+*   **Wichtige Daten sichern**: Erstelle ein Backup deiner wichtigen Dateien, falls während des Updates etwas schiefgeht.
+
+*   **Update-Medium vorbereiten**
+
+*   **USB-Stick**: Formatiere einen USB-Stick im FAT32-Format und kopiere die BIOS-Datei darauf.
+
+**BIOS-Update durchführen**
+
+*   ***Starte den Computer neu** und gehe wieder ins BIOS.
+*    **Finde die Option für BIOS-Updates**: Das kann „EZ Flash“, „M-Flash“ oder ähnlich heißen.
+*   **Wähle die BIOS-Datei** auf dem USB-Stick aus.
+*   **Beginne das Update**: Folge den Anweisungen auf dem Bildschirm. Unterbreche den Vorgang nicht!
+
+**Nach dem Update**
+
+*   **Neustart**: Der Computer startet möglicherweise automatisch neu.
+
+*   **BIOS-Einstellungen überprüfen**: Gehe erneut ins BIOS und überprüfe die Einstellungen. Setze sie bei Bedarf zurück oder ändere sie nach deinen Wünschen.
