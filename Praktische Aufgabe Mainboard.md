@@ -173,7 +173,7 @@ UEFI steht für Unified Extensible Firmware Interface. Es sieht ähnlich aus wie
 
 **17.	Wie führt man ein BIOS-Update durch?**
 
-**1. Vorbereitungen**
+**Vorbereitungen**
 
 *   **Überprüfe die BIOS-Version**: Starte deinen Computer und gehe ins BIOS (meist durch Drücken von F2, DEL oder ESC beim Hochfahren). Notiere die aktuelle Version.
 
