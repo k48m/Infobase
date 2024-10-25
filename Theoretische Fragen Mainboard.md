@@ -172,6 +172,7 @@ Die RAM-Steckplätze sind Hardwarekomponenten auf einem Motherboard, die den phy
 # Theoretische Fragen 3:
 
 **1. Aufgabe des BIOS/UEFI**
+
 Das BIOS (Basic Input/Output System) oder UEFI (Unified Extensible Firmware Interface) ist die Firmware, die auf dem Mainboard gespeichert ist und beim Start des Computers als erstes ausgeführt wird. Seine Hauptaufgaben sind:
 Systeminitialisierung: Es führt einen Selbsttest (POST) durch, um sicherzustellen, dass die Hardwarekomponenten ordnungsgemäß funktionieren.
 Hardwarekonfiguration: Es speichert und verwaltet die Hardwareeinstellungen des Systems, einschließlich der Boot-Reihenfolge.
