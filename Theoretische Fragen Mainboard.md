@@ -203,3 +203,39 @@ Hardware-Konfiguration: Bestimmung des Betriebsmodus von Komponenten (z. B. ob e
 BIOS/UEFI-Wiederherstellung: Zurücksetzen der BIOS-/UEFI-Einstellungen auf die Werkseinstellungen.
 Aktivierung bzw. Deaktivierung von Funktionen: z. B. das Aktivieren oder Deaktivieren bestimmter Schnittstellen oder Funktionen auf dem Mainboard.
 Jumper sind in der heutigen Zeit mit der Ankunft von UEFI und modernen BIOS weniger gebräuchlich, da viele Einstellungen jetzt softwareseitig konfiguriert werden können. Ancak, sie können bei einigen älteren Hardware-Setups und bei spezifischen Fällen wie der Resetting des CMOS-Chips immer noch vorhanden sein.
+
+
+# Theoretische Fragen 4:
+
+**1. Was ist der Chipsatz und was ist seine Aufgabe?**
+
+
+
+**2. Inwiefern unterscheiden sich verschiedene Chipsatz-Plattformen voneinander?**
+
+
+
+**3. Erkläre, inwiefern Funktionspläne eines Mainboards hilfreich sind!**
+
+
+
+**4. Was ist PCIe? Erstelle eine Tabelle der verschiedenen PCIe-Revisionen, den Jahren ihrer Verbreitung sowie ihrer Übertragungsgeschwindigkeit!**
+
+
+
+# Theoretische Fragen 5:
+
+
+**1. Welche Komponenten lassen sich über PCIe mit dem Computer verbinden?**
+
+
+
+**2. Was ist ein PEG?**
+
+
+
+**3. Was ist eine PCIe-Lane?**
+
+
+
+**4. Erkläre, welche PCIe-Steckplätze entweder mit dem Chipsatz oder dem Hauptprozessor verbunden sind! Ist der Unterschied wichtig?**
