@@ -14,7 +14,7 @@ Erkläre - insofern möglich - jede Einstellungsmöglichkeit in deinem BIOS!
 
 [BIOS/UEFI Advanced](Bilder_Infobase/BaiosAdvanced.png)
 
-[BIOS/UEFI Ai Tweaker](<Bilder_Infobase/BiosAi_Tweaker.png)
+[BIOS/UEFI Ai Tweaker](Bilder_Infobase/BiosAi_Tweaker.png)
 
 [BIOS/UEFI Main](Bilder_Infobase/BiosMain.png)
 
