@@ -18,7 +18,7 @@ Erkläre - insofern möglich - jede Einstellungsmöglichkeit in deinem BIOS!
 
 [BIOS/UEFI Main](Bilder_Infobase/BiosMain.png)
 
-## Beantworte danach folgende Fragen und dokumentiere evtl. geforderte Prozesse!
+**Beantworte danach folgende Fragen und dokumentiere evtl. geforderte Prozesse!**
 
 **1.	Wo ändert man die Uhrzeit im BIOS/UEFI?**
 
@@ -195,7 +195,7 @@ UEFI steht für Unified Extensible Firmware Interface. Es sieht ähnlich aus wie
 **BIOS-Update durchführen**
 
 *   **Starte den Computer neu** und gehe wieder ins BIOS.
-*    **Finde die Option für BIOS-Updates**: Das kann „EZ Flash“, „M-Flash“ oder ähnlich heißen.
+*   **Finde die Option für BIOS-Updates**: Das kann „EZ Flash“, „M-Flash“ oder ähnlich heißen.
 *   **Wähle die BIOS-Datei** auf dem USB-Stick aus.
 *   **Beginne das Update**: Folge den Anweisungen auf dem Bildschirm. Unterbreche den Vorgang nicht!
 
