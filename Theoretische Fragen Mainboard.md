@@ -237,9 +237,8 @@ Funktionspläne eines Mainboards sind schematische Darstellungen, die die Anordn
 **4. Was ist PCIe? Erstelle eine Tabelle der verschiedenen PCIe-Revisionen, den Jahren ihrer Verbreitung sowie ihrer Übertragungsgeschwindigkeit!**
 
 PCIe (Peripheral Component Interconnect Express) ist ein Hochgeschwindigkeits-Schnittstellenstandard, der für die Verbindung von Erweiterungskarten wie Grafikkarten, SSDs und anderen Geräten mit dem Motherboard verwendet wird.
-|PCIe Revision|Jahr der Einführung|Übertragungsgeschwindigkeit|Bandbreite    |
-|             |                   |pro Lane (GT/s)            |pro Slot (x16)|
-|-------------|-------------------|---------------------------|--------------|
+|PCIe Revision|Jahr der Einführung|Übertragungsgeschwindigkeit pro Lane (GT/s)|Bandbreite pro Slot (x16)|
+|-------------|-------------------|-------------------------------------------|-------------------------|
 |PCIe 1.0|2003|2,5 GT/s|4 GT/s|
 |PCIe 2.0|2007|5 GT/s|8 GT/s|
 |PCIe 3.0|2010|8 GT/s|16 GT/s|
