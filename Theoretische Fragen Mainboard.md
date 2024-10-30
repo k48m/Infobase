@@ -209,19 +209,42 @@ Jumper sind in der heutigen Zeit mit der Ankunft von UEFI und modernen BIOS weni
 
 **1. Was ist der Chipsatz und was ist seine Aufgabe?**
 
-
+Der Chipsatz ist eine Gruppe von integrierten Schaltkreisen auf einem Mainboard, die die Kommunikation zwischen dem Prozessor, dem Arbeitsspeicher, den Speichergeräten und den Erweiterungskarten steuern. Er ist entscheidend für die Systemleistung und -kompatibilität. Der Chipsatz verwaltet die Datenflüsse und ermöglicht die Interaktion der verschiedenen Hardwarekomponenten.
 
 **2. Inwiefern unterscheiden sich verschiedene Chipsatz-Plattformen voneinander?**
 
 
 
+*   **Unterstützte Prozessoren:** Verschiedene Chipsätze sind für unterschiedliche CPU-Architekturen ausgelegt (z.B. Intel vs. AMD).
+
+*   **Anzahl der Anschlüsse:** Chipsätze variieren in der Anzahl und Art der unterstützten Anschlüsse (USB, SATA, PCIe).
+
+*   **Leistungsmerkmale:** Einige Chipsätze bieten erweiterte Funktionen wie Übertaktung, integrierte Grafikeinheiten oder verbesserte Energiemanagement-Optionen.
+
+*   **Speicherkompatibilität:** Unterschiedliche Chipsätze unterstützen unterschiedliche RAM-Standards (z.B. DDR4 vs. DDR5).
+
+*   **Erweiterungsmöglichkeiten:** Chipsätze können unterschiedliche Mengen an PCIe-Lanes zur Verfügung stellen, was die Anzahl der Erweiterungskarten beeinflusst, die angeschlossen werden können.
+
 **3. Erkläre, inwiefern Funktionspläne eines Mainboards hilfreich sind!**
 
+Funktionspläne eines Mainboards sind schematische Darstellungen, die die Anordnung und die Verbindungen der einzelnen Komponenten zeigen.
 
+*   **Fehlerdiagnose:** Techniker können Probleme leichter identifizieren und beheben.
+*   **Erweiterung:** Bei der Planung von Upgrades oder der Integration neuer Hardware sind sie nützlich.
+*   **Bau und Montage:** Sie erleichtern das Verständnis für die richtige Installation der Komponenten.
+*   **Schaltkreisverständnis:** Sie geben Einblicke in die Signalwege und Datenflüsse innerhalb des Systems.
 
 **4. Was ist PCIe? Erstelle eine Tabelle der verschiedenen PCIe-Revisionen, den Jahren ihrer Verbreitung sowie ihrer Übertragungsgeschwindigkeit!**
 
-
+PCIe (Peripheral Component Interconnect Express) ist ein Hochgeschwindigkeits-Schnittstellenstandard, der für die Verbindung von Erweiterungskarten wie Grafikkarten, SSDs und anderen Geräten mit dem Motherboard verwendet wird.
+|PCIe Revision|Jahr der Einführung|Übertragungsgeschwindigkeit pro Lane (GT/s)|Bandbreite pro Slot (x16)|
+|-------------|-------------------|-------------------------------------------|-------------------------|
+|PCIe 1.0|2003|2,5 GT/s|4 GT/s|
+|PCIe 2.0|2007|5 GT/s|8 GT/s|
+|PCIe 3.0|2010|8 GT/s|16 GT/s|
+|PCIe 4.0|2017|16 GT/s|32 GT/s|
+|PCIe 5.0|2019|32 GT/s|64 GT/s|
+|PCIe 6.0|2022|64 GT/s|128 GT/s|
 
 # Theoretische Fragen 5:
 
