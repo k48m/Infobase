@@ -209,11 +209,9 @@ Jumper sind in der heutigen Zeit mit der Ankunft von UEFI und modernen BIOS weni
 
 **1. Was ist der Chipsatz und was ist seine Aufgabe?**
 
-Der Chipsatz ist eine Gruppe von integrierten Schaltkreisen auf einem Mainboard, die die Kommunikation zwischen dem Prozessor, dem Arbeitsspeicher, den Speichergeräten und den Erweiterungskarten steuern. Er ist entscheidend für die Systemleistung und -kompatibilität. Der Chipsatz verwaltet die Datenflüsse und ermöglicht die Interaktion der verschiedenen Hardwarekomponenten.
+Mehrere für eine Aufgabe miteinander verbundene integrierte Schaltkreise werden als Chipsatz bezeichnet; in der Computertechnik unterstützt der auf einer PC-Hauptplatine (Mainboard) verbaute Chipsatz die Arbeit des Hauptprozessors. Ein PC-Chipsatz bestand lange Zeit meist aus der von Intel eingeführten Zwei-Brücken-Architektur bzw. aus den Chips Northbridge und Southbridge. Diese Namen leiten sich ab von der Lage der Chips auf der Hauptplatine: die Northbridge befindet sich oberhalb des Hauptprozessors, während die Southbridge unterhalb verbaut wird. Beide Chips dienen der Steuerung und dem Datentransfer der einzelnen Komponenten von Hauptplatine und Peripheriegeräten.
 
 **2. Inwiefern unterscheiden sich verschiedene Chipsatz-Plattformen voneinander?**
-
-
 
 *   **Unterstützte Prozessoren:** Verschiedene Chipsätze sind für unterschiedliche CPU-Architekturen ausgelegt (z.B. Intel vs. AMD).
 
