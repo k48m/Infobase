@@ -322,48 +322,18 @@ NVMe SSD 4 lanes
 
 ### **7. Welche Bandbreiten sind pro Lane möglich?**
 
-**PCIe 1.0**
+Rev 3: x1 -> ca. 1GB/s
 
-*   Bandbreite pro Lane: 2,5 GT/s (Giga-Transfers pro Sekunde)
-*   Nutzbare Bandbreite: Etwa 250 MB/s
+Rev 4: x1 -> ca. 2GB/s
 
-**PCIe 2.0**
-
-*   Bandbreite pro Lane: 5 GT/s
-*   Nutzbare Bandbreite: Etwa 500 MB/s
-
-**PCIe 3.0**
-
-*   Bandbreite pro Lane: 8 GT/s
-*   Nutzbare Bandbreite: Etwa 1 GB/s
-
-**PCIe 4.0**
-
-*   Bandbreite pro Lane: 16 GT/s
-*   Nutzbare Bandbreite: Etwa 2 GB/s
-
-**PCIe 5.0**
-
-*   Bandbreite pro Lane: 32 GT/s
-*   Nutzbare Bandbreite: Etwa 4 GB/s
-
-**PCIe 6.0 (in Entwicklung)**
-
-*   Bandbreite pro Lane: 64 GT/s (erwartet)
-*   Nutzbare Bandbreite: Etwa 8 GB/s (erwartet)
+Rev 5: x1 -> ca. 4GB/s
 
 ### **8. Muss jede Lane genutzt werden?**
 
-Nicht jede Lane in PCIe muss genutzt werden. PCIe unterstützt verschiedene Konfigurationen (x1, x4, x8, x16), wobei die Zahl die Anzahl der genutzten Lanes angibt. Ein Gerät kann in einem Slot mit mehr Lanes installiert werden, nutzt jedoch nur die Lanes, für die es ausgelegt ist. Die Bandbreite hängt von der Anzahl der genutzten Lanes ab. Flexibilität ist gegeben: z.B. kann ein x4-Gerät in einem x16-Slot betrieben werden, nutzt aber nur 4 Lanes.
+Nein, grundsätzlich können Komponenten auch mit weniger Lanes auskommen. (Es gibt z.B. x1-Anschlusse ohne Endabschluss, damit längere Karten angesteckt werden können.)
+
+Dies führt jedoch zu Performanceverlust wenn die Bandbreite benötigt werden würde.
 
 ### **9. Was ist beim Anstecken von Erweiterungskarten in Hinsicht auf Lanes zu beachten?**
 
-*Kompatibilität des Slots*: Stellen Sie sicher, dass der Slot die erforderliche Lane-Konfiguration der Karte unterstützt. Eine x4-Karte kann z.B. in einem x4- oder x16-Slot betrieben werden, eine x16-Karte benötigt jedoch einen x16-Slot.
-
-*Maximale Bandbreite*: Berücksichtigen Sie die Bandbreite der Karte. Wenn die Karte mehr Lanes benötigt, als der Slot bereitstellt, kann dies die Leistung beeinträchtigen.
-
-*Kartenanordnung*: Wenn mehrere Karten installiert werden, achten Sie darauf, dass sie sich nicht gegenseitig blockieren, da einige Slots möglicherweise physisch benachbart sind und die Kühlung beeinträchtigen können.
-
-*Mutterplatzeinstellungen*: Überprüfen Sie im BIOS oder UEFI, ob die Einstellungen für PCIe-Lanes korrekt konfiguriert sind, falls Anpassungen erforderlich sind.
-
-*Treiber und Software*: Stellen Sie sicher, dass die richtigen Treiber installiert sind, um die Karte optimal nutzen zu können.
+Nur weil ein x16 Anschluss aussieht als hätte er 16 Lanes muss dies nicht unbedingt der Fall sein! (Im Funktionsplan bzw. Beschreibung des Mainboards kontrolliern.)
