@@ -245,8 +245,6 @@ PCIe, oder Peripheral Component Interconnect Express, ist eine wichtige Schnitts
 
 ### **2. Welche Komponenten lassen sich über PCIe mit dem Computer verbinden?**
 
-Über PCIe (Peripheral Component Interconnect Express) lassen sich verschiedene wichtige Komponenten mit dem Computer verbinden.
-
 *Grafikkarten (GPU)*: Diese sind notwendig für grafikintensive Anwendungen, wie Spiele oder professionelle Grafikbearbeitung.
 
 *Solid-State Drives (SSDs)*: Diese schnellen Speichergeräte verbessern die Ladezeiten und die Gesamtleistung des Computers.
@@ -300,66 +298,27 @@ Die Bandbreite einer Lane hängt von der PCIe-Version ab: Eine PCIe 3.0 Lane üb
 *Zukunftssicherheit*: Leistungsstarke Grafikkarten und SSDs sollten in CPU-verbundenen Steckplätzen installiert werden, um optimale Leistung zu gewährleisten.
 Verbindung mit der CPU
 
-**Vorteile:**
-
-*   Höhere Bandbreite (bis zu 16 GT/s)
-*   Niedrigere Latenz
-*   Bessere Leistung für grafikintensive Anwendungen
-
-**Nachteile:**
-
-*   Weniger Steckplätze verfügbar (oft nur für High-End-Karten)
-*   Verbindung mit dem Chipsatz
-
-**Vorteile:**
-*   Mehr Steckplätze für Erweiterungskarten
-*   Kostengünstigere Lösungen für weniger kritische Anwendungen
-
-**Nachteile:**
-
-*   Geringere Bandbreite (oft bis zu 8 GT/s)
-Höhere Latenz, was die Leistung beeinträchtigen kann
-Insgesamt hängt die Wahl von den spezifischen Anforderungen und der geplanten Nutzung ab.
-
 ### **6. Wieviele Lanes werden von verschiedenen Komponenten verwendet? Gib Beispiele!**
 
-*   **Grafikkarten (GPU)**
+Komponenten und deren Anzahl der PCIe-Lanes
 
-*   **Lanes**: **PCIe x16** (16 Lanes)
+High-End-Grafikkarten 16 Lanes (x16)
 
-**Beispiele** *NVIDIA GeForce RTX 3080*: Diese Karte benötigt 16 Lanes, um die hohe Bandbreite zu nutzen, die für moderne Spiele und grafikintensive Anwendungen erforderlich ist. Die direkte Verbindung zur CPU ermöglicht schnellere Datenübertragungen, was für flüssiges Gameplay und hohe Frameraten wichtig ist.
-*AMD Radeon RX 6800*: Ähnlich wie die RTX 3080 bietet diese Karte hervorragende Leistung in 3D-Anwendungen und benötigt die Bandbreite von 16 Lanes für optimale Nutzung.
+Mittelklasse-Grafikkarten 8 Lanes (x8)
 
-*   **NVMe-SSDs**
-*   **Lanes**: **PCIe x4** (4 Lanes) oder **PCIe x2** (2 Lanes)
+M.2 SSDs 4 Lanes (x4)
 
-**Beispiele** *Samsung 970 EVO Plus*: Diese SSD nutzt 4 Lanes für hohe Lese- und Schreibgeschwindigkeiten, die mehrere Gigabyte pro Sekunde erreichen können. Ideal für Anwendungen wie Videobearbeitung und Gaming, bei denen schnelle Datenzugriffe entscheidend sind.
-*WD Black SN85*0: Auch diese SSD verwendet 4 Lanes und bietet extrem hohe Geschwindigkeiten, was sie perfekt für anspruchsvolle Anwendungen macht.
+Thunderbolt-Karten 4 Lanes (x4)
 
-*   **Netzwerkkarten**
+Hardware-RAID-Controller 4 Lanes (x4)
 
-*   **Lanes**: **PCIe x1** (1 Lane) oder **PCIe x4** (4 Lanes) für Hochgeschwindigkeitsmodelle
+Standard-SSDs 2 Lanes (x2)
 
-**Beispiele** *Intel Ethernet I210*: Diese Standard-Netzwerkkarte verwendet 1 Lane, was für die meisten Internetanwendungen ausreichend ist. Sie bietet stabile Geschwindigkeiten für alltägliche Netzwerkverbindungen.
-  *ASUS XG-C100C*: Diese 10-GbE-Netzwerkkarte benötigt 4 Lanes, um die hohe Bandbreite für schnelle Netzwerkverbindungen zu unterstützen, ideal für Server oder Gaming.
+Netzwerkkarten 1-8 Lane(x1)
 
-*   **Soundkarten**
+Soundkarten 1 Lane
 
-*   **Lanes**: **PCIe x1** (1 Lane)
-
-**Beispiel** *Creative Sound Blaster Z*: Diese Soundkarte nutzt 1 Lane, was ausreichend ist, um hochqualitatives Audio ohne signifikante Latenz zu übertragen. Ideal für Gamer und Musikproduzenten.
-
-*   **SATA-Controller**
-
-*   **Lanes**: Variiert, oft **PCIe x1** oder **PCIe x4**
-
-**Beispiel** *Mrvell PCIe SATA-Controller*: Abhängig von der Konfiguration kann dieser Controller 1 oder 4 Lanes nutzen, um mehrere SATA-Laufwerke zu verwalten, wodurch eine flexible Speichererweiterung ermöglicht wird.
-
-*   **RAID-Controller**
-
-*   **Lanes**: Oft **PCIe x8** oder **PCIe x16**
-
-**Beispiel** *LSI MegaRAID 9361-8i*: Diese Karte benötigt häufig 8 Lanes oder mehr, um Daten effizient von mehreren Festplatten zu verarbeiten. RAID-Controller sind entscheidend für Datensicherheit und geschwindigkeit in Server-Umgebungen.
+NVMe SSD 4 lanes
 
 ### **7. Welche Bandbreiten sind pro Lane möglich?**
 
