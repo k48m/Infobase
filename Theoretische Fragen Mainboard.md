@@ -227,10 +227,6 @@ Funktionspläne eines Mainboards sind schematische Darstellungen, die die Anordn
 *   **Bau und Montage:** Sie erleichtern das Verständnis für die richtige Installation der Komponenten.
 *   **Schaltkreisverständnis:** Sie geben Einblicke in die Signalwege und Datenflüsse innerhalb des Systems.
 
-### **4. Was ist PCIe? Erstelle eine Tabelle der verschiedenen PCIe-Revisionen, den Jahren ihrer Verbreitung sowie ihrer Übertragungsgeschwindigkeit!**
-
-PCIe (Peripheral Component Interconnect Express) ist ein Hochgeschwindigkeits-Schnittstellenstandard, der für die Verbindung von Erweiterungskarten wie Grafikkarten, SSDs und anderen Geräten mit dem Motherboard verwendet wird.
-
 # Theoretische Fragen 5:
 
 ### **1. Was ist PCIe? Erstelle eine Tabelle der verschiedenen PCIe-Revisionen, den Jahren ihrer Verbreitung sowie ihrer Übertragungsgeschwindigkeit!**
