@@ -1,6 +1,6 @@
 # Theoretische Fragen 1:
 
-### **1. Erkläre die Aufgabe des Mainboards!**
+**1. Erkläre die Aufgabe des Mainboards!**
 
 Das Mainboard, auch als Hauptplatine oder Motherboard bezeichnet, ist die zentrale Platine eines Computers, die alle wichtigen Komponenten miteinander verbindet.
 
@@ -12,7 +12,7 @@ Erweiterungsmöglichkeiten: Bereitstellung von Steckplätzen für Erweiterungska
 Anschlussmöglichkeiten: Bereitstellung von Ports für externe Geräte, wie USB, HDMI, Ethernet usw.
 BIOS/UEFI-Firmware: Bereitstellung eines grundlegenden Systems, um den Computer zu starten.
 
-### **2. Was ist der Formfaktor des Mainboards? Erstelle eine Tabelle mit verschiedenen Standards, ihren Maßen und typischen Einsatzgebieten!**
+**2. Was ist der Formfaktor des Mainboards? Erstelle eine Tabelle mit verschiedenen Standards, ihren Maßen und typischen Einsatzgebieten!**
 Der Formfaktor bestimmt die Größe, Form und die Position der Komponenten auf dem Mainboard. Hier ist eine Tabelle mit verschiedenen Formfaktoren, ihren Maßen und typischen Einsatzgebieten:
 |Formfaktor|Maße (mm)|Typische Einsatzgebiete|
 |----------|---------|-----------------------|
@@ -22,7 +22,7 @@ Der Formfaktor bestimmt die Größe, Form und die Position der Komponenten auf d
 |E-ATX|305 x 330|High-End Gaming PCs|
 |XL-ATX	|345 x 262	|Enthusiasten und Gaming-PCs|
 
-### **3. Nenne die wichtigsten Komponenten auf dem Mainboard! Gib zu jeder Komponente Bilder an!**
+**3. Nenne die wichtigsten Komponenten auf dem Mainboard! Gib zu jeder Komponente Bilder an!**
 
 [Prozessor (CPU)](Bilder_Infobase/prozessor.png)
 
@@ -34,7 +34,7 @@ Der Formfaktor bestimmt die Größe, Form und die Position der Komponenten auf d
 
 [BIOS/UEFI-Chip](Bilder_Infobase/BIOS_UEFI_Chip.png)
 
-### **4. Nenne die wichtigsten Bussysteme für Mainboards! Erstelle eine kurze Liste wichtigster Erweiterungsbussysteme und in etwa dem Zeitbereich ihrer Verbreitung!**
+**4. Nenne die wichtigsten Bussysteme für Mainboards! Erstelle eine kurze Liste wichtigster Erweiterungsbussysteme und in etwa dem Zeitbereich ihrer Verbreitung!**
 
 ISA (Industry Standard Architecture)
 
@@ -67,24 +67,24 @@ VESA Local Bus
 *Beschreibung:* Ein früher Standard zur Verbindung von Grafikkarten mit der CPU.
 
 
-### **5. Nenne die wichtigsten externen Anschlüsse des Mainboards und ihre Aufgabe! Gib zu jedem Anschluss Bilder an!**
+**5. Nenne die wichtigsten externen Anschlüsse des Mainboards und ihre Aufgabe! Gib zu jedem Anschluss Bilder an!**
 
 |Anschluss|Aufgabe|Beschreibung| Bilder |
 |---------|-------|------------|--------|
-|CPU-Sockel (Socket)|Verbindung der CPU mit dem Mainboard|Flache, rechteckige Fläche mit Pins oder Löchern| ![CPU-Sockel](Bilder_Infobase/image0.png) |
-|RAM-Sockel (DIMM-Slots)|Aufnahme der RAM-Module|Lange, schmale Slots, parallel angeordnet| ![RAM-Sockel](Bilder_Infobase/image-01.png) |
-|PCIe-Steckplätze|Verbindung von Erweiterungskarten|Längliche Slots (x1, x4, x8, x16)| ![PCIe-STeckplätze](Bilder_Infobase/image-02.png) |
-|SATA-Anschlüsse|Anschluss von SSDs und HDDs|Kleine, flache Anschlüsse, oft in einer Reihe| ![SATA-Anschlüsse](Bilder_Infobase/image-03.png) |
-|M.2-Steckplätze|Anschluss von NVMe-SSDs oder WLAN-Karten|Rechteckige, flache Slots, oft senkrecht zum Mainboard| ![M.2-Steckplätze](Bilder_Infobase/image-05.png) |
-|USB-Header|Anschluss von USB-Anschlüssen im Gehäuse|Mehrpolige Stecker, oft in einer Reihe| ![USB-Header](Bilder_Infobase/image-04.png) |
+|CPU-Sockel (Socket)|Verbindung der CPU mit dem Mainboard|Flache, rechteckige Fläche mit Pins oder Löchern| [CPU-Sockel](Bilder_Infobase/image0.png) |
+|RAM-Sockel (DIMM-Slots)|Aufnahme der RAM-Module|Lange, schmale Slots, parallel angeordnet| [RAM-Sockel](Bilder_Infobase/image-01.png) |
+|PCIe-Steckplätze|Verbindung von Erweiterungskarten|Längliche Slots (x1, x4, x8, x16)| [PCIe-STeckplätze](Bilder_Infobase/image-02.png) |
+|SATA-Anschlüsse|Anschluss von SSDs und HDDs|Kleine, flache Anschlüsse, oft in einer Reihe| [SATA-Anschlüsse](Bilder_Infobase/image-03.png) |
+|M.2-Steckplätze|Anschluss von NVMe-SSDs oder WLAN-Karten|Rechteckige, flache Slots, oft senkrecht zum Mainboard| [M.2-Steckplätze](Bilder_Infobase/image-05.png) |
+|USB-Header|Anschluss von USB-Anschlüssen im Gehäuse|Mehrpolige Stecker, oft in einer Reihe| [USB-Header](Bilder_Infobase/image-04.png) |
 |24-Pin ATX-Stromanschluss|Stromversorgung des Mainboards|Großer, rechteckiger Stecker mit vielen Pins| ![24-Pin ATX](Bilder_Infobase/image-06.png) |
-|4/8-Pin CPU-Stromanschluss|Zusätzliche Stromversorgung für die CPU|Kleinere Stecker, oft quadratisch oder rechteckig| ![4/8-Pin](Bilder_Infobase/image-07.png) |
+|4/8-Pin CPU-Stromanschluss|Zusätzliche Stromversorgung für die CPU|Kleinere Stecker, oft quadratisch oder rechteckig| [4/8-Pin](Bilder_Infobase/image-07.png) |
 
-### **6. Was ist eine Riser-Karte?**
+**6. Was ist eine Riser-Karte?**
 
 Eine Riser-Karte ist eine Erweiterungskarte, die in einem PC verwendet wird, um zusätzliche Erweiterungssteckplätze zu schaffen. Sie ermöglicht es, zusätzliche Karten (wie Grafikkarten oder andere Erweiterungen) in einem anderen Winkel oder an einem anderen Ort im Gehäuse zu platzieren, was besonders in kompakten oder spezialisierten Systemen nützlich ist, in denen der Platz begrenzt ist. Riser-Karten sind oft in Servern oder speziellen Gaming-PCs zu finden.
 
-### **7.Was ist eine Riser-Karte?**
+**7.Was ist eine Riser-Karte?**
 
 Eine Riser-Karte ist eine Erweiterungskarte, die in einem PC verwendet wird, um zusätzliche Erweiterungssteckplätze zu schaffen. Sie ermöglicht es, zusätzliche Karten (wie Grafikkarten oder andere Erweiterungen) in einem anderen Winkel oder an einem anderen Ort im Gehäuse zu platzieren, was besonders in kompakten oder spezialisierten Systemen nützlich ist, in denen der Platz begrenzt ist. Riser-Karten sind oft in Servern oder speziellen Gaming-PCs zu finden.
 
@@ -110,13 +110,13 @@ Der CPU-Sockel ist der Anschluss auf dem Mainboard, in den der Prozessor (CPU) e
 
 *TR4 Kompatible Prozessoren:* AMD Ryzen Threadripper (z. B. Threadripper 2950X, 3970X)
 
-### **2. Erkläre den Begriff PGA!**
+**2. Erkläre den Begriff PGA!**
 
 PGA steht für „Professional Golfers' Association“. Es handelt sich um eine Organisation für Golfspieler, die professionelle Golfer und Golftrainer unterstützt. PGA hat auch eigene Turniere und Meisterschaften, bei denen die besten Golfer gegeneinander antreten. 
 
 Einfach gesagt: Die PGA kümmert sich um die Förderung und Entwicklung des Golfsports auf professioneller Ebene. Sie hilft Spielern, bessere Golfer zu werden und organisiert Wettbewerbe, damit sie ihr Können zeigen können.
 
-### **3. Erkläre den Begriff LGA!**
+**3. Erkläre den Begriff LGA!**
 
 LGA steht für "Landesgemeinde Anstalt". Es handelt sich dabei um eine Organisationsform in der Schweiz, die auf kommunaler Ebene tätig ist. Hier sind einige einfache Erklärungen:
 
@@ -129,7 +129,7 @@ LGA steht für "Landesgemeinde Anstalt". Es handelt sich dabei um eine Organisat
 *Rechtliche Struktur:* Eine LGA hat eine eigene rechtliche Struktur, die es ihr ermöglicht, Verträge abzuschließen und finanziell unabhängig zu agieren.
 
 
-### **4. Was ist ein ZIF-Sockel?**
+**4. Was ist ein ZIF-Sockel?**
 
 Ein ZIF-Sockel (Zero Insertion Force Socket) ist eine spezielle Art von Sockel, die verwendet wird, um integrierte Schaltkreise (ICs) oder andere Bauelemente ohne großen Druck oder Kraft einzusetzen oder herauszunehmen.
 
@@ -142,7 +142,7 @@ Ein ZIF-Sockel (Zero Insertion Force Socket) ist eine spezielle Art von Sockel, 
 *Technische Vorteile:* ZIF-Sockel minimieren mechanischen Stress und verlängern die Lebensdauer der Bauteile, da diese nicht ständig ein- und ausgepresst werden müssen.
 ermöglichen ZIF-Sockel eine einfache und sichere Handhabung von Bauelementen in verschiedenen elektronischen Anwendungen.
 
-### **5. Erkläre die Aufgabe der RAM-Steckplätze! Welche verschiedenen Arten von RAM-Steckplätzen gibt es? Erstelle eine Tabelle mit den verschiedenen Standards, einer Grafik oder schematische Darstellung ihres Aussehens und in etwa die Jahre ihrer Verbreitung!**
+**5. Erkläre die Aufgabe der RAM-Steckplätze! Welche verschiedenen Arten von RAM-Steckplätzen gibt es? Erstelle eine Tabelle mit den verschiedenen Standards, einer Grafik oder schematische Darstellung ihres Aussehens und in etwa die Jahre ihrer Verbreitung!**
 
 **Aufgabe der RAM-Steckplätze**
 
@@ -166,7 +166,7 @@ Die RAM-Steckplätze sind Hardwarekomponenten auf einem Motherboard, die den phy
 
 # Theoretische Fragen 3:
 
-### **1. Aufgabe des BIOS/UEFI**
+**1. Aufgabe des BIOS/UEFI**
 
 Das BIOS (Basic Input/Output System) oder UEFI (Unified Extensible Firmware Interface) ist die Firmware, die auf dem Mainboard gespeichert ist und beim Start des Computers als erstes ausgeführt wird. Seine Hauptaufgaben sind:
 Systeminitialisierung: Es führt einen Selbsttest (POST) durch, um sicherzustellen, dass die Hardwarekomponenten ordnungsgemäß funktionieren.
@@ -174,11 +174,11 @@ Hardwarekonfiguration: Es speichert und verwaltet die Hardwareeinstellungen des 
 Betriebssystem-Laden: Es ermöglicht dem Computer, das Betriebssystem von einem gespeicherten Gerät (z. B. HDD, SSD, USB) zu laden.
 Bereitstellung von Hardware-Abstraktion: Es stellt eine Schnittstelle zwischen der Hardware und dem Betriebssystem zur Verfügung, die es den Anwendungen ermöglicht, Hardware-Ressourcen zu nutzen.
 
-### **2. Wofür ist die BIOS/UEFI-Batterie zuständig?**
+ **2. Wofür ist die BIOS/UEFI-Batterie zuständig?**
 
 Die BIOS/UEFI-Batterie hat die Aufgabe, die BIOS- oder UEFI-Einstellungen, das Datum und die Uhrzeit sowie andere wichtige Konfigurationen im Flash-Speicher auf dem Mainboard zu speichern, auch wenn der Computer ausgeschaltet ist. Diese Batterie stellt sicher, dass diese Informationen nicht verloren gehen, während der Computer nicht mit Strom versorgt wird. Wenn die Batterie schwach wird oder ausfällt, kann es zu Problemen kommen, wie z. B. falschem Datum, Uhrzeit oder zurückgesetzten BIOS-Einstellungen.
 
-### **3. Was ist ein POST? Was sagt uns der POST?**
+**3. Was ist ein POST? Was sagt uns der POST?**
 
 POST steht für Power-On Self-Test. Es handelt sich um einen Diagnosetest, der von BIOS oder UEFI sofort nach dem Einschalten des Computers durchgeführt wird, um zu überprüfen, ob die grundlegenden Hardwarekomponenten (wie CPU, RAM, Grafikkarte und andere wichtige Komponenten) ordnungsgemäß funktionieren.
 
@@ -188,7 +188,7 @@ Fehlercodes: Bei Fehlern werden akustische Signale (Beep-Codes) oder visuelle Fe
 Systemstatus: Zeigt an, ob das System bereit ist, das Betriebssystem zu laden.
 Hardwareerkennung: Bei erfolgreichem POST wird die erkannte Hardware (z. B. verfügbare RAM-Größe) angezeigt.
 
-### **4. Was ist ein Jumper und welche typischen Aufgaben erfüllen Jumper?**
+**4. Was ist ein Jumper und welche typischen Aufgaben erfüllen Jumper?**
 
 Ein Jumper ist ein kleiner Stecker, der auf einer speziellen Leiterbahn (Jumper-Pins) auf dem Mainboard oder auf anderen Hardwarekomponenten gesetzt wird. Jumper werden verwendet, um physikalische Einstellungen zu konfigurieren oder bestimmte Funktionen zu aktivieren/deaktivieren.
 
@@ -202,11 +202,11 @@ Jumper sind in der heutigen Zeit mit der Ankunft von UEFI und modernen BIOS weni
 
 # Theoretische Fragen 4:
 
-### **1. Was ist der Chipsatz und was ist seine Aufgabe?**
+ **1. Was ist der Chipsatz und was ist seine Aufgabe?**
 
 Mehrere für eine Aufgabe miteinander verbundene integrierte Schaltkreise werden als Chipsatz bezeichnet; in der Computertechnik unterstützt der auf einer PC-Hauptplatine (Mainboard) verbaute Chipsatz die Arbeit des Hauptprozessors. Ein PC-Chipsatz bestand lange Zeit meist aus der von Intel eingeführten Zwei-Brücken-Architektur bzw. aus den Chips Northbridge und Southbridge. Diese Namen leiten sich ab von der Lage der Chips auf der Hauptplatine: die Northbridge befindet sich oberhalb des Hauptprozessors, während die Southbridge unterhalb verbaut wird. Beide Chips dienen der Steuerung und dem Datentransfer der einzelnen Komponenten von Hauptplatine und Peripheriegeräten.
 
-### **2. Inwiefern unterscheiden sich verschiedene Chipsatz-Plattformen voneinander?**
+**2. Inwiefern unterscheiden sich verschiedene Chipsatz-Plattformen voneinander?**
 
 *   **Unterstützte Prozessoren:** Verschiedene Chipsätze sind für unterschiedliche CPU-Architekturen ausgelegt (z.B. Intel vs. AMD).
 
@@ -218,7 +218,7 @@ Mehrere für eine Aufgabe miteinander verbundene integrierte Schaltkreise werden
 
 *   **Erweiterungsmöglichkeiten:** Chipsätze können unterschiedliche Mengen an PCIe-Lanes zur Verfügung stellen, was die Anzahl der Erweiterungskarten beeinflusst, die angeschlossen werden können.
 
-### **3. Erkläre, inwiefern Funktionspläne eines Mainboards hilfreich sind!**
+**3. Erkläre, inwiefern Funktionspläne eines Mainboards hilfreich sind!**
 
 Funktionspläne eines Mainboards sind schematische Darstellungen, die die Anordnung und die Verbindungen der einzelnen Komponenten zeigen.
 
@@ -229,7 +229,7 @@ Funktionspläne eines Mainboards sind schematische Darstellungen, die die Anordn
 
 # Theoretische Fragen 5:
 
-### **1. Was ist PCIe? Erstelle eine Tabelle der verschiedenen PCIe-Revisionen, den Jahren ihrer Verbreitung sowie ihrer Übertragungsgeschwindigkeit!**
+**1. Was ist PCIe? Erstelle eine Tabelle der verschiedenen PCIe-Revisionen, den Jahren ihrer Verbreitung sowie ihrer Übertragungsgeschwindigkeit!**
 
 PCIe, oder Peripheral Component Interconnect Express, ist eine wichtige Schnittstelle, die in Computern verwendet wird. Sie ermöglicht es, verschiedene Hardware-Komponenten miteinander zu verbinden. Beispiele dafür sind Grafikkarten, die für Spiele oder Grafikbearbeitung nötig sind, und SSDs, die sehr schnelle Speichergeräte sind. PCIe ist wichtig, weil es eine hohe Geschwindigkeit beim Datenaustausch zwischen dem Computer und diesen Komponenten bietet. Es ist viel schneller als alte Schnittstellen wie PCI oder AGP.
 
@@ -243,7 +243,7 @@ PCIe, oder Peripheral Component Interconnect Express, ist eine wichtige Schnitts
 |PCIe 6.0|2022|64 GT/s|128 GT/s|
 *   Jede Version von PCIe hat eine höhere Geschwindigkeit als die vorherige. Die Geschwindigkeiten werden in Gigabyte pro Sekunde (GB/s) gemessen und zeigen, wie schnell Daten übertragen werden können. Zum Beispiel kann PCIe 3.0 8 GB Daten pro Sekunde über eine Lane übertragen.
 
-### **2. Welche Komponenten lassen sich über PCIe mit dem Computer verbinden?**
+**2. Welche Komponenten lassen sich über PCIe mit dem Computer verbinden?**
 
 *Grafikkarten (GPU)*: Diese sind notwendig für grafikintensive Anwendungen, wie Spiele oder professionelle Grafikbearbeitung.
 
@@ -261,7 +261,7 @@ PCIe, oder Peripheral Component Interconnect Express, ist eine wichtige Schnitts
 
 *Thunderbolt-Karten*: Diese bieten Thunderbolt-Anschlüsse für zusätzliche schnelle Datenübertragungsmöglichkeiten und Zubehör.
 
-### **3. Was ist ein PEG?**
+**3. Was ist ein PEG?**
 
 PEG steht für *(PCI Express Graphics)*. Es handelt sich um einen speziellen Steckplatz auf der Hauptplatine eines Computers, der für die Verbindung von Grafikkarten optimiert ist. 
 
@@ -271,7 +271,7 @@ PEG steht für *(PCI Express Graphics)*. Es handelt sich um einen speziellen Ste
 
 *Kompatibilität:** Fast alle modernen Grafikkarten verwenden PEG-Steckplätze, sodass sie in den meisten neuen Mainboards ohne Probleme installiert werden können.
 
-### **4. Was ist eine PCIe-Lane?**
+**4. Was ist eine PCIe-Lane?**
 
 Eine *PCIe-Lane* ist eine Verbindungseinheit in der PCIe-Technologie, die für den Datenaustausch zwischen einem Computer und seinen Geräten verantwortlich ist. Jede Lane besteht aus zwei Drähten: einer sendet Daten zum Computer, der andere empfängt sie. 
 
@@ -279,7 +279,7 @@ Die Anzahl der Lanes variiert je nach Steckplatz, zum Beispiel x1 (1 Lane), x4 (
 
 Die Bandbreite einer Lane hängt von der PCIe-Version ab: Eine PCIe 3.0 Lane überträgt bis zu 8 GB/s, während eine PCIe 4.0 Lane bis zu 16 GB/s schaffen kann. Somit beeinflusst die Anzahl der Lanes direkt die Geschwindigkeit und Leistung der angeschlossenen Geräte.
 
-### **5. Erkläre, welche PCIe-Steckplätze entweder mit dem Chipsatz oder dem Hauptprozessor verbunden sind! Ist der Unterschied wichtig?**
+**5. Erkläre, welche PCIe-Steckplätze entweder mit dem Chipsatz oder dem Hauptprozessor verbunden sind! Ist der Unterschied wichtig?**
 
 **Verbindung mit der CPU**
 
@@ -298,7 +298,7 @@ Die Bandbreite einer Lane hängt von der PCIe-Version ab: Eine PCIe 3.0 Lane üb
 *Zukunftssicherheit*: Leistungsstarke Grafikkarten und SSDs sollten in CPU-verbundenen Steckplätzen installiert werden, um optimale Leistung zu gewährleisten.
 Verbindung mit der CPU
 
-### **6. Wieviele Lanes werden von verschiedenen Komponenten verwendet? Gib Beispiele!**
+**6. Wieviele Lanes werden von verschiedenen Komponenten verwendet? Gib Beispiele!**
 
 Komponenten und deren Anzahl der PCIe-Lanes
 
@@ -320,7 +320,7 @@ Soundkarten 1 Lane
 
 NVMe SSD 4 lanes
 
-### **7. Welche Bandbreiten sind pro Lane möglich?**
+**7. Welche Bandbreiten sind pro Lane möglich?**
 
 Rev 3: x1 -> ca. 1GB/s
 
@@ -328,12 +328,12 @@ Rev 4: x1 -> ca. 2GB/s
 
 Rev 5: x1 -> ca. 4GB/s
 
-### **8. Muss jede Lane genutzt werden?**
+**8. Muss jede Lane genutzt werden?**
 
 Nein, grundsätzlich können Komponenten auch mit weniger Lanes auskommen. (Es gibt z.B. x1-Anschlusse ohne Endabschluss, damit längere Karten angesteckt werden können.)
 
 Dies führt jedoch zu Performanceverlust wenn die Bandbreite benötigt werden würde.
 
-### **9. Was ist beim Anstecken von Erweiterungskarten in Hinsicht auf Lanes zu beachten?**
+**9. Was ist beim Anstecken von Erweiterungskarten in Hinsicht auf Lanes zu beachten?**
 
 Nur weil ein x16 Anschluss aussieht als hätte er 16 Lanes muss dies nicht unbedingt der Fall sein! (Im Funktionsplan bzw. Beschreibung des Mainboards kontrolliern.)
