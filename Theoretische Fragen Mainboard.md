@@ -77,7 +77,7 @@ VESA Local Bus
 |SATA-Anschlüsse|Anschluss von SSDs und HDDs|Kleine, flache Anschlüsse, oft in einer Reihe| [SATA-Anschlüsse](Bilder_Infobase/image-03.png) |
 |M.2-Steckplätze|Anschluss von NVMe-SSDs oder WLAN-Karten|Rechteckige, flache Slots, oft senkrecht zum Mainboard| [M.2-Steckplätze](Bilder_Infobase/image-05.png) |
 |USB-Header|Anschluss von USB-Anschlüssen im Gehäuse|Mehrpolige Stecker, oft in einer Reihe| [USB-Header](Bilder_Infobase/image-04.png) |
-|24-Pin ATX-Stromanschluss|Stromversorgung des Mainboards|Großer, rechteckiger Stecker mit vielen Pins| ![24-Pin ATX](Bilder_Infobase/image-06.png) |
+|24-Pin ATX-Stromanschluss|Stromversorgung des Mainboards|Großer, rechteckiger Stecker mit vielen Pins| [24-Pin ATX](Bilder_Infobase/image-06.png) |
 |4/8-Pin CPU-Stromanschluss|Zusätzliche Stromversorgung für die CPU|Kleinere Stecker, oft quadratisch oder rechteckig| [4/8-Pin](Bilder_Infobase/image-07.png) |
 
 **6. Was ist eine Riser-Karte?**
