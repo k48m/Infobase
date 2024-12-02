@@ -78,3 +78,37 @@ Synchroner RAM bedeutet, dass der Speicher mit der Taktfrequenz des Prozessors s
 
 Synchrones SRAM: Wird in schnellen Cache-Speichern verwendet, die eng mit dem Prozessor zusammenarbeiten.
 Synchrones DRAM: Wird in Computern und Laptops als Arbeitsspeicher (RAM) eingesetzt, um schnell Daten zu speichern und abzurufen.
+
+
+# Theoretische Fragen 3:
+
+**1. Was ist die Taktrate des RAM?**
+
+
+
+**2. Was ist der Unterschied zwischen Single Data Rate und Double Data Rate?**
+
+
+
+**3. Was sind “Megatransfers”?**
+
+
+
+**4. Was für Latenzen treten in einem Arbeitsspeicher auf?**
+
+
+
+**5. Was ist XMP/DOCP?**
+
+
+
+**6. Was ist beim Übertakten von Arbeitsspeicher zu beachten?**
+
+
+
+**7. Was sind Memory Channels und was ist beim Einbau von RAM zu beachten?**
+
+
+
+**8. Berechne die Datenübertragungsrate eines DDR4-3200 SDRAM Moduls!**
+
