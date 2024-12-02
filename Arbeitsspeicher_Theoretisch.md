@@ -41,8 +41,6 @@ Festplatten sind wie große, langsame Schränke. Sie speichern alle Dateien und 
 
 **1. Was ist SRAM und wie ist SRAM aufgebaut? Nenne Vor- und Nachteile sowie Einsatzgebiete!**
 
-SRAM steht für Static RAM. Es speichert Daten, indem es Transistoren nutzt, die die Daten ohne ständiges Auffrischen behalten.
-Aufbau: Es verwendet Schaltungen aus Transistoren, die stabil bleiben und keine Auffrischung brauchen.
 
 Vorteile:
 Sehr schnell.
@@ -72,12 +70,28 @@ Wird als Hauptspeicher (RAM) in Computern, Laptops und Smartphones verwendet.
 
 **3. Was bedeutet “synchroner” RAM?**
 
-Synchroner RAM bedeutet, dass der Speicher mit der Taktfrequenz des Prozessors synchron arbeitet, also immer zur gleichen Zeit wie der Prozessor Daten liest und schreibt.
+Synchroner RAM bedeutet, dass der Arbeitsspeicher (RAM) mit dem Prozessor im gleichen Takt arbeitet.
+Beide sind aufeinander abgestimmt, sodass Daten schneller und effizienter ausgetauscht werden. Dadurch wird der Computer insgesamt schneller, da der RAM und der Prozessor synchron arbeiten.
 
 **4. Nenne Einsatzgebiete von synchronem SRAM bzw. DRAM!**
 
-Synchrones SRAM: Wird in schnellen Cache-Speichern verwendet, die eng mit dem Prozessor zusammenarbeiten.
-Synchrones DRAM: Wird in Computern und Laptops als Arbeitsspeicher (RAM) eingesetzt, um schnell Daten zu speichern und abzurufen.
+Einsatzgebiete von synchronem SRAM und DRAM:
+
+SRAM (Static RAM):
+
+Cache-Speicher in Prozessoren (z. B. L1, L2 Cache)
+
+Puffer-Speicher in Netzwerkgeräten oder Druckern
+
+Speicher in Routern und Switches
+
+DRAM (Dynamic RAM):
+
+Arbeitsspeicher (RAM) in Computern und Laptops
+
+Grafikspeicher in Grafikkarten
+
+Server-Speicher für große Datenmengen in Rechenzentren
 
 
 # Theoretische Fragen 3:
