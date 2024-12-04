@@ -21,7 +21,6 @@ Die Speicherhierarchie eines Computers sorgt dafür, dass der Computer schnell a
 *Festplatte/SSD*: Sehr groß, aber am langsamsten.
 
 Wichtige Daten sind in den schnellen Speichern, weniger genutzte in den größeren, langsameren.
-![Diagramm](Bilder_Infobase/Speicherhierarchie_diagramm.png)
 
 **Wie unterscheidet sich RAM von anderen Speichergeräten wie z.B. der Festplatte?**
 
