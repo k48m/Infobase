@@ -97,32 +97,24 @@ Server-Speicher für große Datenmengen in Rechenzentren
 # Theoretische Fragen 3:
 
 **1. Was ist die Taktrate des RAM?**
-
-
+Die Taktrate gibt an, wie schnell der Arbeitsspeicher (RAM) Daten verarbeitet. Sie wird in Megahertz (MHz) gemessen. Ein RAM mit **3200 MHz** kann 3,2 Milliarden Datenzyklen pro Sekunde ausführen. Höhere Taktraten bedeuten oft schnelleres Arbeiten, aber das Mainboard und die CPU müssen diese Geschwindigkeit unterstützen.
 
 **2. Was ist der Unterschied zwischen Single Data Rate und Double Data Rate?**
-
-
+Single Data Rate (SDR) überträgt Daten nur in einer Phase des Taktsignals (entweder beim Hoch- oder Runtergehen).
+Double Data Rate (DDR) nutzt beide Phasen des Taktsignals, wodurch die Geschwindigkeit verdoppelt wird. DDR ist moderner und effizienter als SDR. Aktuelle Computer verwenden DDR-Varianten wie DDR4 oder DDR5.
 
 **3. Was sind “Megatransfers”?**
-
-
+Megatransfers (MT/s) zeigen, wie viele Datenübertragungen pro Sekunde der RAM schafft. Zum Beispiel bedeutet **3200 MT/s**, dass 3,2 Milliarden Datenübertragungen pro Sekunde stattfinden. Das ist wichtig, um die Leistung von RAM zu bewerten, besonders bei DDR-Speicher, der doppelt so viele Datenzyklen wie die eigentliche Taktrate durchführt.
 
 **4. Was für Latenzen treten in einem Arbeitsspeicher auf?**
-
-
+Die Latenz beschreibt Verzögerungen bei der Datenverarbeitung. Wichtig ist besonders die **CAS-Latenz (CL)**, die angibt, wie viele Taktzyklen vergehen, bis der RAM Daten bereitstellt. Ein Beispiel: **CL16** bedeutet, dass es 16 Taktzyklen dauert, bis Daten verarbeitet werden. Niedrige Latenzzeiten sind besser, müssen aber mit der Taktrate abgestimmt sein.
 
 **5. Was ist XMP/DOCP?**
-
-
+XMP (Extreme Memory Profile) von Intel entwickelt, um höhere Taktraten und optimale Einstellungen automatisch zu aktivieren.
+DOCP die AMD-Version von XMP. Beide Technologien erleichtern das Übertakten des RAM, indem voreingestellte Profile genutzt werden.
 
 **6. Was ist beim Übertakten von Arbeitsspeicher zu beachten?**
-
-
-
-**7. Was sind Memory Channels und was ist beim Einbau von RAM zu beachten?**
-
-
-
-**8. Berechne die Datenübertragungsrate eines DDR4-3200 SDRAM Moduls!**
-
+Kompatibilität das Mainboard und die CPU müssen die höhere Geschwindigkeit unterstützen.
+Stabilität testen Mit Tools wie *MemTest86* kannst du sicherstellen, dass das System stabil läuft.
+Kühlung Höhere Taktraten erzeugen mehr Wärme, weshalb eine gute Kühlung wichtig ist.
+Spannung manchmal muss die Spannung des RAM leicht erhöht werden, um Stabilität zu gewährleisten.
