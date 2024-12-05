@@ -123,3 +123,28 @@ Kompatibilität das Mainboard und die CPU müssen die höhere Geschwindigkeit un
 Stabilität testen Mit Tools wie *MemTest86* kannst du sicherstellen, dass das System stabil läuft.
 Kühlung Höhere Taktraten erzeugen mehr Wärme, weshalb eine gute Kühlung wichtig ist.
 Spannung manchmal muss die Spannung des RAM leicht erhöht werden, um Stabilität zu gewährleisten.
+
+
+# Theoretische Fragen 4:
+
+**1. Was ist LPDDR-RAM?**  
+
+LPDDR-RAM steht für "Low-Power Double Data Rate RAM". Es ist ein spezieller Arbeitsspeicher, der wenig Energie verbraucht. Dieser Speicher wird oft in mobilen Geräten wie Smartphones, Tablets oder Laptops verwendet, um die Akkulaufzeit zu verlängern.
+
+**2. Was sind Unbuffered RAM?**  
+
+Unbuffered RAM ist ein Arbeitsspeicher, der keine zusätzlichen Puffer- oder Register-Chips verwendet. Es kommuniziert direkt mit der CPU (Prozessor) und wird oft in normalen Computern und Laptops eingesetzt, da es schneller und günstiger ist. Allerdings ist es weniger stabil, besonders bei größeren Speichermengen.
+
+**3. Was ist Registered RAM?**  
+
+Registered RAM (auch Buffered RAM genannt) hat einen kleinen Chip (Register), der die Daten stabilisiert, bevor sie zur CPU weitergeleitet werden. Das sorgt für mehr Stabilität, besonders in Servern oder Workstations mit vielen RAM-Modulen. Es ist langsamer und teurer als Unbuffered RAM, aber zuverlässiger bei hohem Speicherbedarf.
+
+**4. Was ist ECC-RAM?**
+
+ECC-RAM (Error-Correcting Code RAM) kann Datenfehler erkennen und korrigieren. Dadurch wird die Wahrscheinlichkeit von Systemabstürzen oder Datenverlust reduziert. ECC-RAM wird hauptsächlich in Servern und kritischen Systemen verwendet, wo Datensicherheit wichtig ist.
+
+**5. Welche Vorteile ergeben sich durch die Verwendung von ECC und Registered RAM?**  
+
+Mehr Stabilität Beide Technologien sorgen für zuverlässigen Betrieb, besonders in Servern oder Workstations.  
+Fehlerkorrektur ECC-RAM kann Datenfehler erkennen und korrigieren, was Abstürze und Datenverlust verhindert.  
+Bessere Leistung bei großen RAM-Mengen Registered RAM hilft dabei, mehr Speichermodule stabil zu nutzen.  
