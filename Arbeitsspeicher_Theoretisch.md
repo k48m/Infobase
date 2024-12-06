@@ -145,6 +145,71 @@ ECC-RAM (Error-Correcting Code RAM) kann Datenfehler erkennen und korrigieren. D
 
 **5. Welche Vorteile ergeben sich durch die Verwendung von ECC und Registered RAM?**  
 
-Mehr Stabilität Beide Technologien sorgen für zuverlässigen Betrieb, besonders in Servern oder Workstations.  
-Fehlerkorrektur ECC-RAM kann Datenfehler erkennen und korrigieren, was Abstürze und Datenverlust verhindert.  
-Bessere Leistung bei großen RAM-Mengen Registered RAM hilft dabei, mehr Speichermodule stabil zu nutzen.  
+ECC-RAM:
+
+Fehlerkorrektur, dadurch erhöhte Stabilität, Verhinderung von Datenkorruption
+
+Aufgrund des notwendigen extra Speicherchips teurer
+
+Registered RAM:
+
+Höhere Speicherkapazität
+
+Dafür leicht langsamer und teurer
+
+
+# Theoretische Fragen 5:
+
+**1. In welchen Bauformen findet man Arbeitsspeicher? Gib Skizzen an!**
+
+DIMM (Dual Inline Memory Module) für Desktop-PCs; größere Bauform.
+
+SO-DIMM (Small Outline DIMM) für Laptops; kompakter als DIMMs.
+
+LPDDR (Low Power DDR) häufig in mobilen Geräten wie Smartphones und Tablets integriert, oft aufgelötet.
+
+CAMM2 (Compression Attached Memory Module) ein neuer Typ für Laptops, ersetzt SO-DIMM und ist flacher und effizienter.
+
+**2. Welche Kriterien bestimmen die Leistung eines Arbeitsspeichers?**
+
+Taktfrequenz (MHz/MT/s) höhere Frequenzen bedeuten schnelleren Datendurchsatz.
+
+CAS-Latenz (CL) geringere Werte bedeuten schnelleren Zugriff.
+
+peicherkanäle (Single/Dual/Quad Channel) mehr Kanäle erhöhen den Datendurchsatz.
+
+Speichergröße (GB) beeinflusst die Menge der verarbeitbaren Daten.
+
+Technologie (DDR3, DDR4, DDR5):** Neuere Technologien bieten höhere Bandbreiten und Energieeffizienz【9】【10】【11】.
+
+**3. Was bestimmt, welche Arbeitsspeichermodule vom Mainboard unterstützt werden?**
+
+RAM-Typ DDR4, DDR5, etc., muss mit dem Mainboard kompatibel sein.
+
+Maximale Kapazität gibt an, wie viele GB RAM unterstützt werden.
+
+Taktfrequenz und Spannung Mainboards haben oft maximale unterstützte Frequenzen.
+
+Anzahl und Art der RAM-Slots entscheidet über mögliche Konfigurationen (DIMM/SO-DIMM).
+
+**4. Nenne verschiedene Hersteller von DDR(1-5)-SDRAM! Was ist der Unterschied zwischen Herstellern und Distributoren?**
+
+Hersteller Micron, Samsung, SK Hynix (produzieren die eigentlichen DRAM-Chips).
+
+Distributoren Corsair, Kingston, Crucial (nutzen Chips von Herstellern und bieten fertige Module an).
+
+Der Unterschied liegt darin, dass Hersteller Chips produzieren, während Distributoren diese in marktfertige Produkte umwandeln und vertreiben【9】【10】.
+
+**5. Welche Mengen an Arbeitsspeicher sind für verschiedene Einsatzzwecke zu empfehlen?**
+
+Büroarbeiten/Surfen 8 GB (für grundlegende Anwendungen ausreichend).
+
+Gaming 16 GB (optimale Leistung für moderne Spiele).
+
+Professionelle Anwendungen (z. B. Videoschnitt, 3D-Modellierung) 32–64 GB (je nach Projektgröße).
+
+Server/Workstations128 GB oder mehr (für datenintensive Aufgaben erforderlich).
+
+
+# Theoretische Fragen 6:
+
