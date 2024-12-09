@@ -180,7 +180,7 @@ peicherkanäle (Single/Dual/Quad Channel) mehr Kanäle erhöhen den Datendurchsa
 
 Speichergröße (GB) beeinflusst die Menge der verarbeitbaren Daten.
 
-Technologie (DDR3, DDR4, DDR5):** Neuere Technologien bieten höhere Bandbreiten und Energieeffizienz【9】【10】【11】.
+Technologie (DDR3, DDR4, DDR5):** Neuere Technologien bieten höhere Bandbreiten und Energieeffizienz.
 
 **3. Was bestimmt, welche Arbeitsspeichermodule vom Mainboard unterstützt werden?**
 
@@ -198,7 +198,7 @@ Hersteller Micron, Samsung, SK Hynix (produzieren die eigentlichen DRAM-Chips).
 
 Distributoren Corsair, Kingston, Crucial (nutzen Chips von Herstellern und bieten fertige Module an).
 
-Der Unterschied liegt darin, dass Hersteller Chips produzieren, während Distributoren diese in marktfertige Produkte umwandeln und vertreiben【9】【10】.
+Der Unterschied liegt darin, dass Hersteller Chips produzieren, während Distributoren diese in marktfertige Produkte umwandeln und vertreiben.
 
 **5. Welche Mengen an Arbeitsspeicher sind für verschiedene Einsatzzwecke zu empfehlen?**
 
