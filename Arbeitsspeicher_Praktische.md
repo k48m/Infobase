@@ -75,6 +75,7 @@ Zuerst wurde ein Testaufbau mit folgender Hardware realisiert:
 •	TL460s Plus
 
 Es wurde keine Festplatte verwendet, das Betriebssystem wurde von USB geladen.
+
 •	USB (Memtest 86 +)
 
 Vor Beginn des Tests wurden alle Komponenten auf ihre Funktion getestet. Folgendes Verhalten wurde festgestellt:
