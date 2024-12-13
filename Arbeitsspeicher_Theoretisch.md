@@ -180,7 +180,7 @@ peicherkanäle (Single/Dual/Quad Channel) mehr Kanäle erhöhen den Datendurchsa
 
 Speichergröße (GB) beeinflusst die Menge der verarbeitbaren Daten.
 
-Technologie (DDR3, DDR4, DDR5):** Neuere Technologien bieten höhere Bandbreiten und Energieeffizienz.
+Technologie (DDR3, DDR4, DDR5) neuere Technologien bieten höhere Bandbreiten und Energieeffizienz.
 
 **3. Was bestimmt, welche Arbeitsspeichermodule vom Mainboard unterstützt werden?**
 
