@@ -1,4 +1,4 @@
-# Theoretische Aufgabe 1:
+## Theoretische Aufgabe 1:
 
 1. **Aufgabe des Prozessors:**
 

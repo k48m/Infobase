@@ -1,4 +1,4 @@
-# Theoretische Fragen 1:
+## Theoretische Fragen 1:
 
 **1. Erkläre die Aufgabe des Mainboards!**
 
@@ -89,7 +89,7 @@ Eine Riser-Karte ist eine Erweiterungskarte, die in einem PC verwendet wird, um 
 Eine Riser-Karte ist eine Erweiterungskarte, die in einem PC verwendet wird, um zusätzliche Erweiterungssteckplätze zu schaffen. Sie ermöglicht es, zusätzliche Karten (wie Grafikkarten oder andere Erweiterungen) in einem anderen Winkel oder an einem anderen Ort im Gehäuse zu platzieren, was besonders in kompakten oder spezialisierten Systemen nützlich ist, in denen der Platz begrenzt ist. Riser-Karten sind oft in Servern oder speziellen Gaming-PCs zu finden.
 
 
-# Theoretische Fragen 2:
+## Theoretische Fragen 2:
 
 **1. Erkläre die Aufgabe des CPU-Sockels! Erstelle eine (kurze!) Liste verschiedener wichtiger CPU-Sockel, die zurzeit auf Mainboards zu finden sind. Gehe dabei auf AMD und Intel ein! Nenne zu jedem genannten Sockel auch kompatible Prozessoren.**
 
@@ -164,7 +164,7 @@ Die RAM-Steckplätze sind Hardwarekomponenten auf einem Motherboard, die den phy
 |DDR5 SDRAM|[DDR5 SDRAM](Bilder_Infobase/DDR5_SDRAM.png)| 2020 - heute|
 
 
-# Theoretische Fragen 3:
+## Theoretische Fragen 3:
 
 **1. Aufgabe des BIOS/UEFI**
 
@@ -200,7 +200,7 @@ Aktivierung bzw. Deaktivierung von Funktionen: z. B. das Aktivieren oder Deaktiv
 Jumper sind in der heutigen Zeit mit der Ankunft von UEFI und modernen BIOS weniger gebräuchlich, da viele Einstellungen jetzt softwareseitig konfiguriert werden können. Ancak, sie können bei einigen älteren Hardware-Setups und bei spezifischen Fällen wie der Resetting des CMOS-Chips immer noch vorhanden sein.
 
 
-# Theoretische Fragen 4:
+## Theoretische Fragen 4:
 
  **1. Was ist der Chipsatz und was ist seine Aufgabe?**
 
@@ -227,7 +227,7 @@ Funktionspläne eines Mainboards sind schematische Darstellungen, die die Anordn
 *   **Bau und Montage:** Sie erleichtern das Verständnis für die richtige Installation der Komponenten.
 *   **Schaltkreisverständnis:** Sie geben Einblicke in die Signalwege und Datenflüsse innerhalb des Systems.
 
-# Theoretische Fragen 5:
+## Theoretische Fragen 5:
 
 **1. Was ist PCIe? Erstelle eine Tabelle der verschiedenen PCIe-Revisionen, den Jahren ihrer Verbreitung sowie ihrer Übertragungsgeschwindigkeit!**
 
