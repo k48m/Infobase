@@ -70,7 +70,7 @@ Maschinencode wird normalerweise in einer für den Menschen schwer verständlich
 
 Assembler ist eine Programmiersprache, die eine niedrigere Abstraktionsebene als Hochsprachen wie C oder Python bietet. Sie besteht aus symbolischen Darstellungen von Maschinenbefehlen (Mnemonics), die für Menschen leichter lesbar sind.Der Assembler wird durch ein spezielles Programm (Assembler) in Maschinencode übersetzt, der dann vom Prozessor ausgeführt werden kann.
 
-# Theoretische AUfgabe 3:
+## Theoretische AUfgabe 3:
 
 **1. Aufbau eines Prozessors:**
 
@@ -115,7 +115,7 @@ Der Sockel ist die Schnittstelle zwischen dem Prozessor und dem Mainboard. Er so
 richtig im Motherboard eingesetzt werden kann und mit dem System verbunden wird.
 eder Prozessor hat einen bestimmten Sockeltyp, der zu bestimmten Mainboards passt.
 
-# Theoretische Ablauf 4:
+## Theoretische Ablauf 4:
 
 **1.Was ist ein CPU-Kern?**
 
