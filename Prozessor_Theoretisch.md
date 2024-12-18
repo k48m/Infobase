@@ -36,3 +36,34 @@ RISC wird in mobilen Geräten wie Smartphones und Tablets genutzt, da sie effizi
 5. **Bedeutung der Angabe „64bit“:**
 
    Ein 64-Bit-Prozessor kann mehr Daten gleichzeitig verarbeiten und mehr Speicher adressieren als ein 32-Bit-Prozessor. Er ist schneller und leistungsfähiger, besonders bei modernen Anwendungen.
+
+
+## Theoretische Aufgabe 2:
+
+1. **Was ist eine „Anweisung“?**
+
+Eine „Anweisung“ in der Informatik ist eine Einzeloperation, die von einem Prozessor ausgeführt wird. Jede Anweisung kann als eine Art Befehl angesehen werden, den der Prozessor ausführt, um eine spezifische Aufgabe zu erledigen, wie z. B. das Addieren von Zahlen oder das Laden von Daten in einen Speicherbereich.
+
+2. **Wie sieht eine Anweisung für einen Prozessor aus? Gib ein Beispiel!**
+
+Eine Anweisung für einen Prozessor besteht normalerweise aus einer Reihe von binären Codebits, die dem Prozessor genau sagen, was zu tun ist. Eine typische Anweisung kann z.B. aus einem Opcode (Befehlscode) bestehen, der angibt, welcher Befehl ausgeführt wird, und Operanden, die die Daten oder Register angeben, auf die der Befehl angewendet wird.
+
+*Beispiel*:
+
+`ADD R1, R2, R3` – Diese Anweisung addiert den Inhalt von Register R2 und R3 und speichert das Ergebnis in Register R1.
+
+3. **Was ist Maschinencode?**
+
+Maschinencode ist die niedrigste Ebene der Programmiersprache, die direkt von einem Prozessor verstanden wird. Es handelt sich um eine Reihe von binären Zahlen, die aus 0 und 1 bestehen und spezifische Anweisungen für den Prozessor enthalten. Maschinencode wird normalerweise in einer für den Menschen schwer verständlichen Form dargestellt, da er direkt in Hardwarebefehlen übersetzt wird.
+
+4. **Was bedeutet „RISC“?**
+
+„RISC“ steht für (Reduced Instruction Set Computing. Es ist ein Prozessorarchitektur-Design, das auf einer kleinen und einfachen Menge von Anweisungen basiert, die alle in ungefähr der gleichen Zeit ausgeführt werden können. Ziel ist es, die Ausführungsgeschwindigkeit durch die Vereinfachung der Befehlsstruktur zu maximieren.
+
+5. **Was bedeutet „CISC“?**
+
+„CISC“ steht für (Complex Instruction Set Computing). Es handelt sich um eine Prozessorarchitektur, die eine größere Anzahl komplexer Anweisungen enthält, von denen einige mehrere Operationen in einem Befehl kombinieren können. CISC-Prozessoren benötigen in der Regel weniger Befehle, aber die einzelnen Befehle können komplexer und langsamer auszuführen sein.
+
+6. **Was ist Assembler?**
+
+Assembler ist eine Programmiersprache, die eine niedrigere Abstraktionsebene als Hochsprachen wie C oder Python bietet. Sie besteht aus symbolischen Darstellungen von Maschinenbefehlen (Mnemonics), die für Menschen leichter lesbar sind. Der Assembler wird durch ein spezielles Programm (Assembler) in Maschinencode übersetzt, der dann vom Prozessor ausgeführt werden kann.
